@@ -28,3 +28,5 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 * environmentalism and the folly of all this
 * the tribalism - jerseys and consumption 
 * group rides or **solo**
+
+:cyclist:
