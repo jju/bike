@@ -20,9 +20,9 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 * on the road - the dirt and the fumes and the traffic
 * in the winter - toughguy styles I'm not too keen
 * speed and competition with self and learning about how time on a given day means very little
-* trails and concentration
-* distance 
-* destinations
+* trails and concentration - bear bells prayer bells
+* distance - wannabe a randonneur
+* destinations - saltspring and how we didn't leave the car behind
 
 ## being a cyclist
 
