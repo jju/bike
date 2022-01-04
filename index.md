@@ -19,7 +19,7 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 
 * on the road - the dirt and the fumes and the traffic
 * in the winter - toughguy styles I'm not too keen
-* speed and competition with self and learning about how time on a given day means very little
+* speed and competition with self and learning about how time on a given day means very little [[210804-boxes]] 
 * trails and concentration - bear bells prayer bells
 * distance - wannabe a randonneur
 * destinations - saltspring and how we didn't leave the car behind
@@ -29,5 +29,10 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 * environmentalism and the folly of all this
 * the tribalism - jerseys and consumption 
 * group rides or **solo**
+
+## cycling games
+
+* The Cyclist: Tactics via Steam [[cyclisttactics/index]]
+* 
 
 :bicyclist:
