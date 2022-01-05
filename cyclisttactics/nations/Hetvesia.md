@@ -9,5 +9,5 @@
 | Hydrovein Power Inc. | POW | [[Hetvesia]] | Amateur | [[Hilly]]
 | Vista Watches Team | VWT | [[Hetvesia]] | Amateur | [[TT]]Mountain
 | Discovery Travels | DCT | [[Hetvesia]] | Amateur | [[Hilly]]
-| Wholesome TV Entertainment | WTV | [[Hetvesia]] | Amateur | [[TTHilly]]
+| Wholesome TV Entertainment | WTV | [[Hetvesia]] | Amateur | [[TT]]Hilly
 | Dubious Monk Racing | DMR | [[Hetvesia]] | Amateur | [[Flat]]

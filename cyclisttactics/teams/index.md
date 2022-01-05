@@ -33,7 +33,7 @@
 | Xenatek Computing Team | XEN | [[Gasmea]] | Amateur | [[Cobble]]
 | Vianta Health Foundation | VHF | [[Gasmea]] | Amateur | [[Hilly]]
 | Rail'n Road Transports | RRT | [[Archana]] | Amateur | [[FlatHilly]]
-| Wholesome TV Entertainment | WTV | [[Hetvesia]] | Amateur | [[TTHilly]]
+| Wholesome TV Entertainment | WTV | [[Hetvesia]] | Amateur | [[TT]]Hilly
 | Hinterlands Adventures | HAD | [[Archana]] | Amateur | [[Hilly]]
 | Basara Real Estate | BRE | [[Dalluha]] | Amateur | [[FlatHilly]]
 | BAM Racing Team | BAM | [[Gasmea]] | Amateur | [[FlatHilly]]
