@@ -1,6 +1,6 @@
 # Team Dubious Monk Racing
 
-A chronicle of the first playthrough of The Cyclist: Tactics
+A chronicle of my first playthrough of The Cyclist: Tactics
 
 # Season 1 - 2021
 
@@ -17,7 +17,7 @@ Jax is not at all the leader of this small team, but is trying to learn the rope
 
 ## Races
 
-### Hills and Valley Tour (Amateur) 1F-2C 
+### Hills and Valley Tour (Amateur) 3 Stages 1F-2C 
 * AJ04 FA07 DP09 AM13
 
 Jax stuck it out and got 4th in GC in his first real stage race.
@@ -96,15 +96,28 @@ FA AJ SB** YB
 
 Jax stayed in peloton when early break went but joined the late one with FA support, and claimed 5th on the day. This doesn't quite redeem the season yet, but made a good start. He levelled up to cobble puncher and took attack.
 
-### Vitessa Spring Open (Amateur) 1F-1H-2M
+### Vitessa Spring Open (Amateur) 4 Stages 1F-1H-2M
 FA* AJ AM YB 
 
 The team has low expectations for this short tour. The plan is to race conservatively for Albrecht, with Jax poised to try taking over if he falters. YB is the first option for pulling. If the flat section is first YB will be dragging AM to the line.
 
-### Southern Alps Tour (Mixed) 1TT-1C-1H-3M
+* Oof stage one was a beast. FA lost a lot of time to the leaders. 
+* Stage 2 crawled back to 8 & 9 on GC 
+* stage 3 flat hilly FA had a terrible ride but hung onto the peloton to stay with Jax in 8/9 
+* stage 4 mtn finish AJ and FA came in 8&9 to claim 7&8 overall
+
+### Southern Alps Tour (Mixed) 6 Stages 1TT-1C-1H-3M
 FA** AJ EF* AM
 
 The Time Trial is Farina's time to shine. He'll ride in the peloton until then and afterwards be a helper. Mazza gets the same deal while Jax is lead on the cobbles then going with Albrecht for the big climbs.
+
+Such an incredibly bad idea to do this tour.
+
+* Stage 1 M (flat finish) spent the entirety in the peloton. FA and AJ got 12 & 13 not entirely exhausted Billy King is AJ's nemesis
+* Stage 2 M (M finish) ugh. held onto GC status but that was ugly
+* Stage 3 C (hilly mountain) FA resting this stage, AM the helper for AJ who is gassed
+* Stage 4 TT
+* Stage 5 M
 
 ### Chrono Ridge (Mixed) MTT
 AJ EF** AM* SB

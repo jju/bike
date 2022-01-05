@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "cyclisttactics/nations/Hetvesia.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7217e985443a6558",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cyclisttactics/teams.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "cyclisttactics/teams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "48db5247f9de619d",
+  "active": "7217e985443a6558",
   "lastOpenFiles": [
-    "index.md",
+    "cyclisttactics/teams.md",
+    "cyclisttactics/nations/Hetvesia.md",
+    "cyclisttactics/nations/Gasmea.md",
+    "cyclisttactics/nations/Fruinia.md",
+    "cyclisttactics/nations/Dalluha.md",
+    "cyclisttactics/nations/Archana.md",
+    "cyclisttactics/racetypes/index.md",
+    "cyclisttactics/racetypes/Cobble.md",
     "cyclisttactics/tdm-racing.md",
-    "cyclisttactics/index.md",
-    "210804-boxes.md"
+    "cyclisttactics/racetypes/TT.md"
   ]
 }
