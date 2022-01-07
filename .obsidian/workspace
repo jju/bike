@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cyclisttactics/index.md",
+            "file": "cyclisttactics/tdm-racing.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyclisttactics/index.md",
+                "file": "cyclisttactics/tdm-racing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "7217e985443a6558",
   "lastOpenFiles": [
+    "cyclisttactics/tdm-racing.md",
     "cyclisttactics/index.md",
     "cyclisttactics/racetypes/index.md",
     "cyclisttactics/teams/index.md",
@@ -107,7 +108,6 @@
     "cyclisttactics/nations/Gasmea.md",
     "cyclisttactics/nations/Fruinia.md",
     "cyclisttactics/nations/Dalluha.md",
-    "cyclisttactics/nations/Archana.md",
-    "cyclisttactics/racetypes/Cobble.md"
+    "cyclisttactics/nations/Archana.md"
   ]
 }

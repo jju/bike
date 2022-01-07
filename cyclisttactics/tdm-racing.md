@@ -2,6 +2,22 @@
 
 A chronicle of my first playthrough of The Cyclist: Tactics
 
+
+# Palmares
+
+## Andrew Jax
+
+* Hills and Valley Tour 2021 4th
+* Muur de Felsbach 2022 5th
+* Naubad Classic 2022 1st
+
+## Frank Albrecht
+
+* Naubad Classic 2021 2nd
+* Vitessa Spring Open 2022 9th
+* Naubad Classic 2022 8th
+
+
 # Season 1 - 2021
 
 Andrew Jax is a Fruinian who came up through cyclocross as an amateur. Now a neo-pro who wasn't picked up by a team has attracted a sponsor (his rich uncle who wants to do something nice for the world and more especially his nephew) and they got David Perry to sign up.
@@ -113,22 +129,32 @@ The Time Trial is Farina's time to shine. He'll ride in the peloton until then a
 
 Such an incredibly bad idea to do this tour.
 
-* Stage 1 M (flat finish) spent the entirety in the peloton. FA and AJ got 12 & 13 not entirely exhausted Billy King is AJ's nemesis
-* Stage 2 M (M finish) ugh. held onto GC status but that was ugly
-* Stage 3 C (hilly mountain) FA resting this stage, AM the helper for AJ who is gassed
-* Stage 4 TT
-* Stage 5 M
+* Stage 1 [[Mountain]] (flat finish) spent the entirety in the peloton. FA and AJ got 12 & 13 not entirely exhausted Billy King is AJ's nemesis
+* Stage 2 [[Mountain]] (M finish) ugh. held onto GC status but that was ugly
+* Stage 3 [[Cobble]] ([[HillyMountain]]) FA resting this stage, AM the helper for AJ who is gassed AJ crept up to 11th on GC
+* Stage 4 [[TT]] AJ lost time to drop to 12 on GC
+* Stage 6 [[HillyMountain]] AJ and AM are out of energy completely AJ will be falling from 12, which probably isn't so bad if they can get FA up into the top10. FA got 9th on the stage, and AJ got 12th, getting them into 9 and 10 overall
+* Stage 5 [[Mountain]] ADS and HAD battling for 1 on GC (.02 between them) Need to stay ahead of Jonathan Harris and Vadim Filippov. FA 11 and AJ 14 on stage
+* Overall: FA9 AJ11 EF 25 AM34
 
 ### Chrono Ridge (Mixed) MTT
 AJ EF** AM* SB
 
 Mazza is pissed that this is one of his big moments in the season. If he's coming back next season the team needs to treat him much differently.
 
+Weird tiny race 22 node length. EF got 10th place.
+
 ### Naubad Classic (Amateur) H
 FA AJ* SB*? YB*
 
 FA came in second last year and is hoping to improve on that.
 
+FA came in 8, but AJ got his first ever win! From a bunch sprint out of a group of 7 that escaped right at the beginning That pulled the season out of the midden heap and made for a great success heading into the Lannen Grand Prix.
+
 ### Lannen Grand Prix (Amateur) 4 Stage 1TT-1C-1H-3M 
 FA AJ** EF YB**
+* Stage 1 2 Climbing Jersey incl finish[[Hilly]]
+* Stage 2 Red at finish [[FlatHilly]]
+* Stage 3 3 red incl Mtn finish [[Mountain]]
+* Stage 4 2 Red incl finish [[HillyMountain]]
 
