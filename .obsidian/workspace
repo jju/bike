@@ -16,16 +16,34 @@
         }
       },
       {
-        "id": "7217e985443a6558",
-        "type": "leaf",
+        "id": "11e783d0d4990068",
+        "type": "split",
         "dimension": 50.06402048655569,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "cyclisttactics/tdm-racing.md",
-            "mode": "source"
+        "children": [
+          {
+            "id": "7217e985443a6558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "races/FedBO.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f913d4c9a32e18e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cyclisttactics/tdm-racing.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -81,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyclisttactics/tdm-racing.md",
+                "file": "races/FedBO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +119,15 @@
   },
   "active": "7217e985443a6558",
   "lastOpenFiles": [
-    "cyclisttactics/tdm-racing.md",
+    "races/FedBO.md",
     "races/index.md",
-    "cyclisttactics/teams/index.md",
-    "cyclisttactics/racetypes/Cobble.md",
-    "cyclisttactics/racetypes/Flat.md",
-    "cyclisttactics/racetypes/FlatHilly.md",
-    "cyclisttactics/racetypes/Hilly.md",
-    "cyclisttactics/racetypes/HillyMountain.md",
-    "cyclisttactics/racetypes/Mountain.md",
-    "cyclisttactics/racetypes/TT.md"
+    "races/Pierona.md",
+    "races/HVTour.md",
+    "cyclisttactics/tdm-racing.md",
+    "races/RHills.md",
+    "races/Ellis.md",
+    "races/Naubad.md",
+    "races/RSRush.md",
+    "races/Wazduk.md"
   ]
 }

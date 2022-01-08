@@ -1,7 +1,7 @@
 # Races
 
-| Name | Short Name | Prestige | Type | Nation | Terrain | Length |
-|-----|------|------|-----|----|-----|-----|----|---|
+| Name           | Short Name | Prestige | Type | Nation | Terrain | Length |
+|----------------|------------|----------|------|--------|---------|--------|
 | Tour of Gasmea | [[GasTour]] | 10 | Pro | [[Gasmea]] | [[HillyMountain]] | 21 Stages
 | Giro Fruinia | [[Giro]] | 9 | Pro | [[Fruinia]] | [[Hilly]] | 21 Stages
 | Fruinian Masters | [[Masters]] | 9 | Pro | [[Fruinia]] | [[Hilly]] |
