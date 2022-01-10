@@ -12,6 +12,9 @@ A chronicle of my first playthrough of The Cyclist: Tactics
 * Naubad Classic 2022 1st [[Naubad]]
 * Lannen Grand Prix 2022 4th & Green Jersey [[Lannen]]
 * Hills and Valley Tour 2023 5th [[HVTour]]
+* Dalluha Coast Race 2023 Red Jersey [[Coast]]
+* Wildau Rhone Tour 2023 3rd [[WilRho]]
+* Weisshorn Challenge 2023 3rd [[Weiss]]
 
 ## David Perry
 
@@ -29,7 +32,17 @@ A chronicle of my first playthrough of The Cyclist: Tactics
 
 ## Elias Vogel
 
+* Wildau Rhone Tour 2023 2nd & Red Jersey [[WilRho]]
+* Weisshorn Challenge 2023 1st [[Weiss]]
+
 ## Yusef Abbasi
+
+* Weisshorn Challenge 2023 2nd [[Weiss]]
+
+## Idrees Kashif
+
+* Weisshorn Challenge 2023 5th [[Weiss]]
+
 
 
 # Season 1 - 2021
@@ -261,10 +274,44 @@ No great results here. AC got a top ten overall.
 
 6 Mixed [[Dalluha]] [[Flat]] 5 Stages
 
-AJ EV YB AC
+AJ19 EV28 YB15 AC12
 
 * Stage 1 out of the top ten
 * Stage 2 nothing good happening
 * Stage 3 AJ/EV going for the Red Jersey because everyone is down from the GC
 * Stage 4
 * Stage 5
+
+AJ Red Jersey (EV 3rd for Red)
+
+## Wildau Rhone Tour [[WilRho]]
+
+5 Amateur [[Hetvesia]] [[Hilly]] 3 Stages
+
+EV2 AJ3 YA14 IK19
+
+We did very well in this race, EV got the Red Jersey with AJ and YA 2nd and 3rd.
+
+
+## Weisshorn Challenge [[Weiss]]
+
+5 Amateur [[Hetvesia]] [[Mountain]] 
+
+EV1 YA2 AJ3 IK5
+
+This mountain classic was severely underattended. When the break went DMR flooded it and kept it going to the end to crush it as a team. EV enjoyed his first win and YA's first podium was also sweet.
+
+## Cloud Peak Circle [[Cloud]]
+
+6 Mixed [[Hetvesia]] [[HillyMountain]] 6 Stages
+
+After a couple of amateur races to boost the palmares collection (and Jax's uncle's spirits) we head back into stiffer competition.
+
+AJ IK EV YA
+
+* Stage 1 Prologue [[Hilly]] EV8 IK13 AJ18 YA23
+* Stage 2 [[HillyMountain]]
+* Stage 3 [[HillyMountain]]
+* Stage 4 [[FlatHilly]]
+* Stage 5 [[Mountain]]
+* Stage 6 [[Hilly]]

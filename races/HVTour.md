@@ -1,8 +1,10 @@
+# Hills and Valley Tour
+
 | Name | Short Name | Prestige | Type | Nation | Terrain | Length |
 |-----|------|------|-----|----|-----|-----|
 | Hills and Valley Tour | [[HVTour]] | 5 | Amateur  | [[Fruinia]] | [[Hilly]] | 3 Stages
 
-# Background
+> A three-day tour with short hilly stages that offers a fast-paced challenge for those who pack a punch in the climbs and all-rounders. This difficult-to-control race thrusts young talent into the spotlight and often sees unexpected winners.
 
 # Performances
 

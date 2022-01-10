@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "races/FedBO.md",
+                "file": "races/WilRho.md",
                 "mode": "source"
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "races/FedBO.md",
+                "file": "cyclisttactics/tdm-racing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7217e985443a6558",
+  "active": "f913d4c9a32e18e4",
   "lastOpenFiles": [
-    "races/FedBO.md",
-    "races/index.md",
-    "races/Pierona.md",
-    "races/HVTour.md",
     "cyclisttactics/tdm-racing.md",
-    "races/RHills.md",
-    "races/Ellis.md",
-    "races/Naubad.md",
-    "races/RSRush.md",
-    "races/Wazduk.md"
+    "races/WilRho.md",
+    "races/Weiss.md",
+    "races/index.md",
+    "races/Coast.md",
+    "races/Sprints.md",
+    "races/HVTour.md",
+    "races/Lannen.md",
+    "races/FedBO.md",
+    "races/Pierona.md"
   ]
 }
