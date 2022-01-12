@@ -1,8 +1,10 @@
+# Rising Sun Rush
+
 | Name | Short Name | Prestige | Type | Nation | Terrain | Length |
 |-----|------|------|-----|----|-----|-----|
 | Rising Sun Rush | [[RSRush]] | 6 | Amateur | [[Dalluha]] | [[Flat]] |
 
-# Background
+>
 
 # Performances
 

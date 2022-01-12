@@ -4,7 +4,7 @@
 |-----|------|------|-----|----|-----|-----|
 | Wildau Rhone Tour | [[WilRho]] |  5 | Amateur | [[Hetvesia]] | [[Hilly]] | 3 Stages
 
-> 
+> While this tour is pretty flat for Hetvesian standards it still features a mixed bag of terrain over three short stages. This can result in chaotic races which favours opportunists who can pack a punch or who are great all-rounders.
 
 # Performances
 

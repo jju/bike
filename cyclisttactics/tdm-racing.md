@@ -15,6 +15,7 @@ A chronicle of my first playthrough of The Cyclist: Tactics
 * Dalluha Coast Race 2023 Red Jersey [[Coast]]
 * Wildau Rhone Tour 2023 3rd [[WilRho]]
 * Weisshorn Challenge 2023 3rd [[Weiss]]
+* Cloud Peak Circle 2023 5th & Red Jersey [[Cloud]]
 
 ## David Perry
 
@@ -34,6 +35,7 @@ A chronicle of my first playthrough of The Cyclist: Tactics
 
 * Wildau Rhone Tour 2023 2nd & Red Jersey [[WilRho]]
 * Weisshorn Challenge 2023 1st [[Weiss]]
+* Cloud Peak Circle 2023 6th & 2 Stage podiums [[Cloud]]
 
 ## Yusef Abbasi
 
@@ -42,6 +44,12 @@ A chronicle of my first playthrough of The Cyclist: Tactics
 ## Idrees Kashif
 
 * Weisshorn Challenge 2023 5th [[Weiss]]
+* Naubad Classic 2023 1st [[Naubad]]
+
+## Alexander Cook
+
+* Basara Sprints 2023 10th [[Sprints]]
+* Naubad Classic 2023 7th [[Naubad]]
 
 
 
@@ -239,7 +247,7 @@ This was a good result for the team. Yusef got 9th place in the end.
 
 # Season 3 - 2023
 
-The second season for Dubious Monk Racing saw the team falter a bit.
+The second season for Dubious Monk Racing saw the team falter a bit, so they brought in some new blood to get things on track. This year brought more of a focus on flatter races.
 
 ## Roster
 
@@ -307,11 +315,39 @@ This mountain classic was severely underattended. When the break went DMR floode
 
 After a couple of amateur races to boost the palmares collection (and Jax's uncle's spirits) we head back into stiffer competition.
 
-AJ IK EV YA
+AJ** IK EV** YA
 
 * Stage 1 Prologue [[Hilly]] EV8 IK13 AJ18 YA23
-* Stage 2 [[HillyMountain]]
-* Stage 3 [[HillyMountain]]
-* Stage 4 [[FlatHilly]]
-* Stage 5 [[Mountain]]
-* Stage 6 [[Hilly]]
+* Stage 2 [[HillyMountain]] AJ4(5GC) Red and Green Jersey IK9(8GC) EV12(12GC) YA23(25GC)
+* Stage 3 [[HillyMountain]] EV3 AJ3 YA29 IK30
+* Stage 4 [[FlatHilly]] AJ11 EV12 IK16 YA27
+* Stage 5 [[Mountain]] EV2(GC6) AJ8(GC5 Red Jersey) IK21(GC13) YA22(GC32)
+* Stage 6 [[Hilly]] EV2 (GC6) AJ5(GC5 Red Jersey)
+
+AJ and EV came in on major fitness peaks and got wht they wanted a top5 overall and Red Jersey for AJ and two stage podiums for EV
+
+## Naubad Classic
+
+5 Amateur [[Hetvesia]] [[HillyMountain]]
+
+IK AC YA YB
+
+Jax didn't come back to the race he won in 2022. Only four teams entered, but DMR was at a talent deficit to get IK a win.
+
+They spent everything they had to do it but the team got Idrees his first win for DMR.
+
+## Round Highport [[Highport]]
+
+6 Amateur [[Gasmea]] [[Cobble]]
+
+AC AJ YB YA
+
+We got shelled. AJ was in the break all day and ran out of steam at the end. We need to learn to pace ourselves better in these long flat races.
+
+## Rolling Hills Race [[RHills]]
+
+5 Amateur [[Fruinia]] [[FlatHilly]]
+
+Last race of the season and though the sponsor is happy with us, they'd like us to do well here.
+
+AC EV 

@@ -45,4 +45,4 @@
 | Enrico Chivaldori Racing | ECR | [[Fruinia]] | Amateur | [[Cobble]]
 | Automation Cycling Team  | ACT | [[Gasmea]] | Amateur | [[Flat]]
 | Hector Morales Cycling | HMC | [[Archana]] | Amateur | [[HillyMountain]]
-| Dubious Monk Racing | DMR | [[Hetvesia]] | Amateur | [[Flat]]
+| Dubious Monk Racing | [[DMR]] | [[Hetvesia]] | Amateur | [[HillyMountain]]

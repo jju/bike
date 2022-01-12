@@ -16,7 +16,7 @@ The second grade of mountain racing.
 
 | Team | ShrtNm | Nation | Level | Focus |
 |-------|-------|---------|-------|-----|
-| Bank of [[Hetvesia]] | BOH | [[Hetvesia]] | Pro | Mountain
+| Bank of Hetvesia | BOH | [[Hetvesia]] | Pro | Mountain
 | Five Mountains Clothing | FMC | [[Hetvesia]] | Pro | Mountain
 | Nova Sports Equipment | NSE | [[Fruinia]] | Pro | Hilly
 | Meadow Meister Milk | MMM | [[Hetvesia]] | Pro | Hilly
@@ -31,7 +31,7 @@ The second grade of mountain racing.
 
 | Name | Short Name | Prestige | Type | Nation | Terrain | Length |
 |-----|------|------|-----|----|-----|-----|----|---|
-| Tour of [[Gasmea]] | [[GasTour]] | 10 | Pro | [[Gasmea]] | [[HillyMountain]] | 21 Stages
+| Tour of Gasmea | [[GasTour]] | 10 | Pro | [[Gasmea]] | [[HillyMountain]] | 21 Stages
 | Meranio Trophy | [[Meranio]] | 7 | Pro | [[Fruinia]] | [[HillyMountain]] |
 | Monte Pierona | [[Pierona]] | 6 | Mixed | [[Fruinia]] | [[HillyMountain]] |
 | Cloud Peak Circle | [[Cloud]] | 6 | Mixed | [[Hetvesia]] | [[HillyMountain]] | 6 Stages

@@ -1,8 +1,10 @@
+# Naubad Classic
+
 | Name | Short Name | Prestige | Type | Nation | Terrain | Length |
 |-----|------|------|-----|----|-----|-----|
 | Naubad Classic | [[Naubad]] | 5 | Amateur | [[Hetvesia]] | [[HillyMountain]] |
 
-# Background
+> A short but challenging classic in the mountains around the ski and spa resort of Naubad.
 
 # Performances
 
@@ -11,3 +13,5 @@
 * 2021: Andrew Jax DMR 11th
 * 2022: Andrew Jax DMR 1st #win #podium
 * 2022: Frank Albrecht DMR 8th #top10
+* 2023: Idrees Kashif DMR 1st #win #podium 
+* 2023: Alexander Cook DMR 7th #top10

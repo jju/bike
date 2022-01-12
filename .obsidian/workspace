@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "races/index.md",
+            "file": "cyclisttactics/teams/DMR.md",
             "mode": "source"
           }
         }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "races/WilRho.md",
+                "file": "cyclisttactics/teams/index.md",
                 "mode": "source"
               }
             }
@@ -120,14 +120,14 @@
   "active": "f913d4c9a32e18e4",
   "lastOpenFiles": [
     "cyclisttactics/tdm-racing.md",
-    "races/WilRho.md",
-    "races/Weiss.md",
-    "races/index.md",
-    "races/Coast.md",
-    "races/Sprints.md",
+    "cyclisttactics/teams/index.md",
+    "cyclisttactics/teams/DMR.md",
     "races/HVTour.md",
-    "races/Lannen.md",
-    "races/FedBO.md",
-    "races/Pierona.md"
+    "cyclisttactics/racetypes/HillyMountain.md",
+    "races/Naubad.md",
+    "cyclisttactics/racetypes/Mountain.md",
+    "cyclisttactics/racetypes/Hilly.md",
+    "cyclisttactics/racetypes/FlatHilly.md",
+    "cyclisttactics/racetypes/Flat.md"
   ]
 }

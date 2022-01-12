@@ -5,7 +5,7 @@
 | Weisshorn Challenge | [[Weiss]] | 5 | Amateur | [[Hetvesia]] | [[Mountain]] | 
 
 
-# Background
+> A tough race which often incorporates part of the famous Weisshorn climb. It's one of the prime spots for Hetvesian scouts to assess young talent.
 
 # Performances
 

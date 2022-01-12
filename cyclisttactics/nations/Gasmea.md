@@ -22,15 +22,15 @@
 
 | Name | Short Name | Prestige | Type | Nation | Terrain | Length |
 |-----|------|------|-----|----|-----|-----|----|---|
+| Tour of Gasmea | [[GasTour]] | 10 | Pro | [[Gasmea]] | [[HillyMountain]] | 21 Stages
 | Hegenberg Round | [[Hegen]] | 8 | Pro | [[Gasmea]] | [[Cobble]] |
-| Daalbeck to Hammersbach | [[Hammer]] | 6 | Mixed | [[Gasmea]] | [[Cobble]] | 5 Stages 
-| Lannen Grand Prix | [[Lannen]] | 5 | Amateur | [[Gasmea]] | [[HillyMountain]] | 4 Stages 
+| Great Plains Tour | [[Plains]] | 8 | Pro | [[Gasmea]] | [[Flat]] | 14 Stages
 | Steinvej Classic | [[Steinvej]] | 8 | Pro | [[Gasmea]] | [[Cobble]]
-| Great Lakes Tour | [[Lakes]] | 6 | Amateur | [[Gasmea]] | [[FlatHilly]] | 5 Stages
+| Tour of the North | [[TNorth]] | 7 | Pro | [[Gasmea]] | [[Cobble]] | 7 Stages
+| Daalbeck to Hammersbach | [[Hammer]] | 6 | Mixed | [[Gasmea]] | [[Cobble]] | 5 Stages 
 | Federal Bank Open | [[FedBO]] | 6 | Mixed | [[Gasmea]] | [[FlatHilly]] |
 | Muur de Felsbach | [[Felsbach]] | 6 | Mixed | [[Gasmea]] | [[Cobble]] |
-| Great Plains Tour | [[Plains]] | 8 | Pro | [[Gasmea]] | [[Flat]] | 14 Stages
-| Tour of Gasmea | [[GasTour]] | 10 | Pro | [[Gasmea]] | [[HillyMountain]] | 21 Stages
+| Great Lakes Tour | [[Lakes]] | 6 | Amateur | [[Gasmea]] | [[FlatHilly]] | 5 Stages
 | Ellisbury Cup | [[Ellis]] | 6 | Amateur | [[Gasmea]] | [[Flat]] |
 | Round Highport | [[Highport]] | 6 | Amateur | [[Gasmea]] | [[Cobble]] | 
-| Tour of the North | [[TNorth]] | 7 | Pro | [[Gasmea]] | [[Cobble]] | 7 Stages
+| Lannen Grand Prix | [[Lannen]] | 5 | Amateur | [[Gasmea]] | [[HillyMountain]] | 4 Stages 

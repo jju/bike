@@ -1,8 +1,10 @@
+# Ellisbury Cup
+
 | Name | Short Name | Prestige | Type | Nation | Terrain | Length |
 |-----|------|------|-----|----|-----|-----|
 | Ellisbury Cup | [[Ellis]] | 6 | Amateur | [[Gasmea]] | [[Flat]] |
 
-# Background
+> 
 
 # Performances
 

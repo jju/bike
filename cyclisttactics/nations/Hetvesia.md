@@ -16,12 +16,12 @@
 
 | Name | Short Name | Prestige | Type | Nation | Terrain | Length |
 |-----|------|------|-----|----|-----|-----|----|---|
-| Wildau Rhone Tour | [[WilRho]] |  5 | Amateur | [[Hetvesia]] | [[Hilly]] | 3 Stages
+| Vista Hetvesia | [[Vista]] | 8 | Pro | [[Hetvesia]] | [[Mountain]] | 14 Stages
 | Sky Race | [[SkyRace]] | 8 | Pro | [[Hetvesia]] | [[Mountain]] | 
 | Gronwald to Vinthal | [[GronVin]] | 7 | Pro | [[Hetvesia]] | [[Hilly]]
-| Weisshorn Challenge | [[Weiss]] | 5 | Amateur | [[Hetvesia]] | [[Mountain]] | 
-| Vista Hetvesia | [[Vista]] | 8 | Pro | [[Hetvesia]] | [[Mountain]] | 14 Stages
 | Cloud Peak Circle | [[Cloud]] | 6 | Mixed | [[Hetvesia]] | [[HillyMountain]] | 6 Stages
 | Southern Alps Tour | [[SAlps]] | 6 | Mixed | [[Hetvesia]] | [[Mountain]] | 6 Stages
-| Naubad Classic | [[Naubad]] | 5 | Amateur | [[Hetvesia]] | [[HillyMountain]] |
 | Chrono Ridge | [[Chrono]] | 6 | Mixed | [[Hetvesia]] | [[Mountain]] [[TT]] |
+| Wildau Rhone Tour | [[WilRho]] |  5 | Amateur | [[Hetvesia]] | [[Hilly]] | 3 Stages
+| Weisshorn Challenge | [[Weiss]] | 5 | Amateur | [[Hetvesia]] | [[Mountain]] | 
+| Naubad Classic | [[Naubad]] | 5 | Amateur | [[Hetvesia]] | [[HillyMountain]] |

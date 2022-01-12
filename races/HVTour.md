@@ -14,6 +14,7 @@
 * 2021: Alessandro Mazza DMR 13th
 * 2022: Andrew Jax DMR 6th #top10
 * 2023: Andrew Jax DMR 5th #top5
+* 2023: Elias Vogel DMR Stage 3 3rd #podium 
 
 ## Notes
 
