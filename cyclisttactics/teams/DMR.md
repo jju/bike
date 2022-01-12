@@ -6,6 +6,15 @@
 
 ## Roster
 
+### 2024
+
+* Otto Wolff 7 Rouleur [[Flat]]
+* Javier Gonzalez 6 Rouleur [[Flat]]
+* Marco Longo 6 Climber [[Mountain]]
+* Pierluiggi Fabri 6 Cobble Puncher PF [[Mix]]
+* Andrew Jax 6 Cobble Puncher AJ [[Mix]]
+* Elias Vogel 5 Climber EV [[Mountain]]
+
 ### 2023
 
 * Idrees Kashif 6 Downhill IK [[Mountain]]

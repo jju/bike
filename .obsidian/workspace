@@ -4,21 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "48db5247f9de619d",
-        "type": "leaf",
-        "dimension": 49.9359795134443,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "cyclisttactics/teams/DMR.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "11e783d0d4990068",
         "type": "split",
-        "dimension": 50.06402048655569,
         "children": [
           {
             "id": "7217e985443a6558",
@@ -26,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyclisttactics/teams/index.md",
+                "file": "races/index.md",
                 "mode": "source"
               }
             }
@@ -120,14 +107,14 @@
   "active": "f913d4c9a32e18e4",
   "lastOpenFiles": [
     "cyclisttactics/tdm-racing.md",
+    "races/index.md",
+    "races/Felsbach.md",
     "cyclisttactics/teams/index.md",
     "cyclisttactics/teams/DMR.md",
     "races/HVTour.md",
     "cyclisttactics/racetypes/HillyMountain.md",
     "races/Naubad.md",
     "cyclisttactics/racetypes/Mountain.md",
-    "cyclisttactics/racetypes/Hilly.md",
-    "cyclisttactics/racetypes/FlatHilly.md",
-    "cyclisttactics/racetypes/Flat.md"
+    "cyclisttactics/racetypes/Hilly.md"
   ]
 }

@@ -350,4 +350,60 @@ We got shelled. AJ was in the break all day and ran out of steam at the end. We 
 
 Last race of the season and though the sponsor is happy with us, they'd like us to do well here.
 
-AC EV 
+IK AJ EV YB
+
+YB got a podium!
+
+
+# Season 4 - 2024
+
+Changed the kit again this year for a more classic Celeste.
+
+## Roster
+
+* Otto Wolff 7 Rouleur [[Flat]]
+* Javier Gonzalez 6 Rouleur [[Flat]]
+* Marco Longo 6 Climber [[Mountain]]
+* Pierluiggi Fabri 6 Cobble Puncher PF [[Mix]]
+* Andrew Jax 6 Cobble Puncher AJ [[Mix]]
+* Elias Vogel 5 Climber EV [[Mountain]]
+
+Andrew Jax and Elias Vogel stayed with DMR for Season 4. Dropping Yusef Abbasi was a tough decision, but they needed to get better sooner with the extra money coming in.
+
+## Races
+
+### Lannen Grand Prix [[Lannen]]
+
+ML PF AJ EV*
+
+### Monte Pierona [[Pierona]]
+
+JG ML* AJ EV**
+
+### Federal Bank Open [[FedBO]]
+
+OW JG PF AJ*
+
+### Dalluha Coast Race [[Coast]]
+
+OW* JG PF* EV
+
+### Muur de Felsbach [[Felsbach]]
+
+OW** JG PF** AJ*
+
+### Southern Alps Tour [[SAlps]]
+
+JG** ML* AJ EV
+
+### Cloud Peak Circle [[Cloud]]
+
+OW ML** AJ EV*
+
+### Road to Novobeskov [[Novo]]
+
+OW JG PF AJ*
+
+### Daalbeck to Hammersbach [[Hammer]]
+
+OW* JG* PF* AJ**
