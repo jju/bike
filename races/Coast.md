@@ -4,7 +4,7 @@
 |-----|------|------|-----|----|-----|-----|
 | Dalluha Coast Race | [[Coast]] | 6 | Mixed | [[Dalluha]] | [[Flat]] | 5 Stages
 
-> 
+> This five-day tour covers most of the mostly flat Dalluhan coastal regions and offers plenty of opportunities for sprinters to shine. Without time trials, a strong barodeur or sprinter will likely emerge as the champion of this race.
 
 # Performances
 

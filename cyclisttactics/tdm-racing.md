@@ -57,6 +57,8 @@ A chronicle of my first playthrough of The Cyclist: Tactics
 
 Andrew Jax is a Fruinian who came up through cyclocross as an amateur. Now a neo-pro who wasn't picked up by a team has attracted a sponsor (his rich uncle who wants to do something nice for the world and more especially his nephew) and they got David Perry to sign up.
 
+Their kit this season was black with purple spatter.
+
 ## Roster
 
 * Andrew Jax 3 Cobbles AJ
@@ -147,6 +149,8 @@ The first season of Team Dubious Monk was a great success and Jax's uncle gave t
 * Yusef Badawi 1 Novice YB
 
 Scouting in 2021 found Samir Bilal and Yusef Badawi in Dalluha. Mazza was again pissed that another sprinter was being added to the mix. David Perry was also released in favour of Ezio Farina, a Time Trial expert. The team is now larger so a full squad can head to each of the races, unlike in 2021. The flip side is that there is no clear leader the way they had with David Perry.
+
+They changed kit for this season to an orange with blue star jersey.
 
 ## Races
 
@@ -374,36 +378,75 @@ Andrew Jax and Elias Vogel stayed with DMR for Season 4. Dropping Yusef Abbasi w
 
 ### Lannen Grand Prix [[Lannen]]
 
+5 Amateur [[Gasmea]] [[HillyMountain]] 4 Stages 
+
 ML PF AJ EV*
+
+* Stage 1 [[Hilly]] AJ 5 Red Jersey PF stayed in peloton otherwise all pretty good on GC.
+* Stage 2 [[FlatHilly]] Lost a lot of GC time but handed Red Jersey to EV
+* Stage 3 [[Mountain]] ML 2 EV 1 AJ climbed back into GC contention
+* Stage 4 [[HillyMountain]] EV 5 AJ7 & Red Jersey
+
+EV5 AJ7 ML9 PF12
 
 ### Monte Pierona [[Pierona]]
 
-JG ML* AJ EV**
+6 Mixed [[Fruinia]] [[HillyMountain]]
+
+JG15 ML* 7 AJ8 EV**5
+
+The three climbers got in the top 10
+
+We're chasing Lannen Sports Academy and Ultimate Sportswear in the amateur team standings.
 
 ### Federal Bank Open [[FedBO]]
 
+6 Mixed [[Gasmea]] [[FlatHilly]]
+
 OW JG PF AJ*
+
+OW taking pulls, PF to cover the break, then JG and AJ come out Kraken and Lannen are the teams to watch closely. AJ played it out in almost textbook fashion, just getting pipped at the line to get second place instead of the win. The great thing is that we came out ahead of current season nemesis Lannen Sports Academy's Alikhan Shakhmetov. Ooo that guy. That also put us into 14th in the team rankings, the top amateur team!
 
 ### Dalluha Coast Race [[Coast]]
 
+6 Mixed [[Dalluha]] [[Flat]] 5 Stages
+
 OW* JG PF* EV
 
+The plan for this stage race is for EV to grab as many of the climbs as possible. There are 12 points available and ideally he takes 9. JG runs as the leadout man for OW (who did a lot of work in the [[FedBO]] to get AJ on the podium).
+
+* Stage 1 [[FlatHilly]] EV got enough of the 2 climbs for Red Jersey points to take that into stage 2. PF came in 8th on the stage tied for GC with the leader.
+* Stage 2 [[Flat]] EV stayed in the pack while JG rode in the break for a long time. OW missed the decisive break and it looks like red jersey is all DMR will be acquiring in the overall.
+* Stage 3 [[Flat]] 2 climbs for Red Jersey points -> EV's task
+* Stage 4 [[Flat]]
+* Stage 5 [[Flat]]
+
 ### Muur de Felsbach [[Felsbach]]
+
+6 Mixed [[Gasmea]] [[Cobble]]
 
 OW** JG PF** AJ*
 
 ### Southern Alps Tour [[SAlps]]
 
+6 Mixed [[Hetvesia]] [[Mountain]] 6 Stages
+
 JG** ML* AJ EV
 
 ### Cloud Peak Circle [[Cloud]]
+
+6 Mixed [[Hetvesia]] [[HillyMountain]] 6 Stages
 
 OW ML** AJ EV*
 
 ### Road to Novobeskov [[Novo]]
 
+5 Amateur [[Archana]] [[FlatHilly]] 3 Stages
+
 OW JG PF AJ*
 
 ### Daalbeck to Hammersbach [[Hammer]]
+
+6 Mixed [[Gasmea]] [[Cobble]] 5 Stages 
 
 OW* JG* PF* AJ**

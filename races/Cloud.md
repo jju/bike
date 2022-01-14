@@ -4,7 +4,7 @@
 |-----|------|------|-----|----|-----|-----|
 | Cloud Peak Circle | [[Cloud]] | 6 | Mixed | [[Hetvesia]] | [[HillyMountain]] | 6 Stages
 
-> 
+> A tour that covers the full spectrum of Hetvesian cycling with its varied terrain and a sprinkling of iconic climbs. Coming out on top will require serious clibing skills, but puncheurs will be able to target stage wins.
 
 # Performances
 
