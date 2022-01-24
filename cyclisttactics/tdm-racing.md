@@ -7,15 +7,19 @@ A chronicle of my first playthrough of The Cyclist: Tactics
 
 ## Andrew Jax
 
-* Hills and Valley Tour 2021 4th [[HVTour]]
-* Muur de Felsbach 2022 5th [[Felsbach]]
+2024 was Jax's year. He came in the top 10 in every race he entered and won 3 races (two of them stage races)
+
 * Naubad Classic 2022 1st [[Naubad]]
 * Lannen Grand Prix 2022 4th & Green Jersey [[Lannen]]
-* Hills and Valley Tour 2023 5th [[HVTour]]
 * Dalluha Coast Race 2023 Red Jersey [[Coast]]
 * Wildau Rhone Tour 2023 3rd [[WilRho]]
 * Weisshorn Challenge 2023 3rd [[Weiss]]
 * Cloud Peak Circle 2023 5th & Red Jersey [[Cloud]]
+* Lannen Grand Prix 2024 Red Jersey [[Lannen]]
+* Federal Bank Open 2024 2nd [[FedBO]]
+* Road to Novobeskov 2024 1st [[Novo]]
+* Daalbeck to Hammersbach 2024 1st [[Hammer]]
+* Hegenberg Round 2025 1st [[Hegen]]
 
 ## David Perry
 
@@ -24,8 +28,6 @@ A chronicle of my first playthrough of The Cyclist: Tactics
 ## Frank Albrecht
 
 * Naubad Classic 2021 2nd [[Naubad]]
-* Vitessa Spring Open 2022 9th [[Vitessa]]
-* Naubad Classic 2022 8th [[Naubad]]
 
 ## Alessandro Mazza
 
@@ -43,7 +45,6 @@ A chronicle of my first playthrough of The Cyclist: Tactics
 
 ## Idrees Kashif
 
-* Weisshorn Challenge 2023 5th [[Weiss]]
 * Naubad Classic 2023 1st [[Naubad]]
 
 ## Alexander Cook
@@ -427,17 +428,32 @@ The plan for this stage race is for EV to grab as many of the climbs as possible
 
 OW** JG PF** AJ*
 
+
+
 ### Southern Alps Tour [[SAlps]]
 
 6 Mixed [[Hetvesia]] [[Mountain]] 6 Stages
 
 JG** ML* AJ EV
 
+This tour went amazingly for Team Dubious Monk. Stage wins and just out of first in GC filling up the podium. Javier Gonzalez and Marco Longo got on the podium and Elias Vogel snagged the Red Jersey. Even Andrew Jax (not a pure climber) made the top ten.
+
 ### Cloud Peak Circle [[Cloud]]
 
 6 Mixed [[Hetvesia]] [[HillyMountain]] 6 Stages
 
+Right on the heels of the Southern Alps, a slightly easier parcours for the climbers. DMR doesn't need as good of results here (they're currently the top amateur team this season), but they will be welcome.
+
 OW ML** AJ EV*
+
+* Stage 1 [[TT]] We don't have a time trial specialist, which should be on our radar if we are changing up the roster to compete in the grand tours.
+* Stage 2 [[HillyMountain]] EV 2 on stage
+* Stage 3 [[HillyMountain]] EV stage win! crushing red jersey
+* Stage 4 [[Mountain]] Yellow Jersey cracked and bled time, but we couldn't gain as much as the stage winner. Doing fine in Red Jersey and also still holding green.
+* Stage 5 [[HillyMountain]] The peloton decided to rest up in this race giving the escape group (with EV in it) a massive attack on GC. EV didn't get the stage win but moved into the yellow jersey (and held red) before the flattish final.
+* Stage 6 [[FlatHilly]] AJ got the stage win and stayed in the top 10. The only loss on the day was EV losing the Green jersey but he wasn't really fighting for it anyway.
+
+EV1&Red AJ9 ML10 OW13
 
 ### Road to Novobeskov [[Novo]]
 
@@ -445,8 +461,88 @@ OW ML** AJ EV*
 
 OW JG PF AJ*
 
+This is AJ's third time racing in Archana, but the last ones were in his neopro season back in 2021. Now he has a stage win. OW got a stage podium and the red jersey, which isn't much in a race like this but should get the riders pumped for next month's Hammersbach.
+
 ### Daalbeck to Hammersbach [[Hammer]]
 
 6 Mixed [[Gasmea]] [[Cobble]] 5 Stages 
 
 OW* JG* PF* AJ**
+
+Andrew Jax won the Hammersbach. He got three podiums on stages in the race without a win, but managed the overall.
+
+# Season 5 2025
+
+## Roster
+
+## Races
+
+### Hegenberg Round [[Hegen]]
+
+8 Pro [[Gasmea]] [[Cobble]]
+
+AJ* JG PF YA
+
+Jax opened up their first real pro season with a monument win! This got the team half the prestige necessary for the sponsors to be happy with the season.
+
+Yusef Abbasi (back with the team after a year away) did a huge amount of work on the front of the peloton getting AJ and PF into position in the second half of the tough race. The escape never got far away because of YA and his unflagging work.
+
+### Steinveg Classic [[Steinvej]]
+
+8 Pro [[Gasmea]] [[Cobble]]
+
+AJ** JG PF* YA
+
+Sponsor Focus
+
+### Muur de Felsbach [[Felsbach]]
+
+6 Mixed [[Gasmea]] [[Cobble]]
+
+JG* ML PF** YA
+
+Sponsor Focus
+
+### Giro Fruinia [[Giro]]
+
+9 Pro [[Fruinia]] [[Hilly]] 21 Stages
+
+AJ* JG** EV YA*
+
+### Sky Race [[SkyRace]]
+
+8 Pro [[Hetvesia]] [[Mountain]]
+
+ML* EV PF YA
+
+### Vista Hetvesia [[Vista]]
+
+8 Pro [[Hetvesia]] [[Mountain]] 14 Stages
+
+AJ ML** EV* YA
+
+### Mara Lake Circuit [[Mara]]
+
+7 Pro [[Archana]] [[FlatHilly]]
+
+AJ JG PF YA*
+
+Sponsor Focus
+
+This race looks underattended this year and we're targeting it for YA.
+
+### Archana Tour [[ArchTour]]
+
+8 Pro [[Archana]] [[Hilly]] 14 Stages
+
+AJ JG* EV* YA**
+
+Sponsor Focus
+
+### Meranio Trophy [[Meranio]]
+
+7 Pro [[Fruinia]] [[HillyMountain]] Monument
+
+AJ ML* EV** PF*
+
+Sponsor Focus

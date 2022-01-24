@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "races/FedBO.md",
+                "file": "races/Hegen.md",
                 "mode": "source"
               }
             }
@@ -118,14 +118,14 @@
   "active": "37d686784174e989",
   "lastOpenFiles": [
     "cyclisttactics/tdm-racing.md",
-    "races/FedBO.md",
-    "races/Hammer.md",
     "races/index.md",
+    "races/Hegen.md",
+    "races/Hammer.md",
+    "races/Felsbach.md",
     "races/Novo.md",
     "races/SAlps.md",
+    "races/FedBO.md",
     "races/Lannen.md",
-    "races/Cloud.md",
-    "races/Felsbach.md",
-    "races/Coast.md"
+    "races/Cloud.md"
   ]
 }

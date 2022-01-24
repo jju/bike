@@ -9,15 +9,15 @@
 | Vista Hetvesia | [[Vista]] | 8 | Pro | [[Hetvesia]] | [[Mountain]] | 14 Stages
 | Great Plains Tour | [[Plains]] | 8 | Pro | [[Gasmea]] | [[Flat]] | 14 Stages
 | Archana Tour | [[ArchTour]] | 8 | Pro | [[Archana]] | [[Hilly]] | 14 Stages
-| Hegenberg Round | [[Hegen]] | 8 | Pro | [[Gasmea]] | [[Cobble]] |
-| Steinvej Classic | [[Steinvej]] | 8 | Pro | [[Gasmea]] | [[Cobble]]
+| Hegenberg Round | [[Hegen]] | 8 | Pro | [[Gasmea]] | [[Cobble]] | Monument
+| Steinvej Classic | [[Steinvej]] | 8 | Pro | [[Gasmea]] | [[Cobble]] | Monument
 | Sky Race | [[SkyRace]] | 8 | Pro | [[Hetvesia]] | [[Mountain]] | 
 | Tour of the North | [[TNorth]] | 7 | Pro | [[Gasmea]] | [[Cobble]] | 7 Stages
 | Three Country Challenge | [[3CC]] | 7 | Pro | [[Archana]] | [[FlatHilly]] | 7 Stages
 | ITT World Invitational | [[ITTW]] | 7 | Pro | [[Archana]] | [[Hilly]][[TT]] | 5 Stages
 | Gronwald to Vinthal | [[GronVin]] | 7 | Pro | [[Hetvesia]] | [[Hilly]]
 | Mara Lake Circuit | [[Mara]] | 7 | Pro | [[Archana]] | [[FlatHilly]] |
-| Meranio Trophy | [[Meranio]] | 7 | Pro | [[Fruinia]] | [[HillyMountain]] |
+| Meranio Trophy | [[Meranio]] | 7 | Pro | [[Fruinia]] | [[HillyMountain]] | Monument
 | Harvest Circuit Tour | [[Harvest]] | 6 | Mixed | [[Fruinia]] | [[FlatHilly]] | 7 Stages
 | Cloud Peak Circle | [[Cloud]] | 6 | Mixed | [[Hetvesia]] | [[HillyMountain]] | 6 Stages
 | Southern Alps Tour | [[SAlps]] | 6 | Mixed | [[Hetvesia]] | [[Mountain]] | 6 Stages

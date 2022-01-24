@@ -9,7 +9,11 @@
 # Performances
 
 * 2022: Frank Albrecht DMR 9th #top10
+* 2024: Elias Vogel DMR 8th & Red Jersey #top10
+* 2024: Marco Longo DMR 2nd #podium 
+* 2024: Andrew Jax DMR 7th #top10
+* 2024: Javier Gonzalez DMR 3rd #podium
 
 ## Notes
 
-Dubious Monk Racing did not have the talent to try this one in 2022.
+Dubious Monk Racing did not have the talent to try this one in 2022. What a difference a couple of seasons made though as DMR got two podium spots and the Red Jersey and had four members in the top 10 in 2024.
