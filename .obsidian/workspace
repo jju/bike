@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "races/Hegen.md",
+                "file": "cyclisttactics/tdm-racing.md",
                 "mode": "source"
               }
             }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyclisttactics/tdm-racing.md",
+                "file": "cyclisttactics/teams/DMR.md",
                 "mode": "source"
               }
             }
@@ -115,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37d686784174e989",
+  "active": "812f51fe8a9c02b1",
   "lastOpenFiles": [
     "cyclisttactics/tdm-racing.md",
+    "cyclisttactics/teams/DMR.md",
+    "cyclisttactics/teams/dmr-s1.md",
+    "cyclisttactics/teams/dmr-s2.md",
+    "cyclisttactics/teams/dmr-s3.md",
+    "cyclisttactics/teams/dmr-s4.md",
+    "cyclisttactics/teams/dmr-s5.md",
+    "races/Steinvej.md",
     "races/index.md",
-    "races/Hegen.md",
-    "races/Hammer.md",
-    "races/Felsbach.md",
-    "races/Novo.md",
-    "races/SAlps.md",
-    "races/FedBO.md",
-    "races/Lannen.md",
-    "races/Cloud.md"
+    "races/Hegen.md"
   ]
 }
