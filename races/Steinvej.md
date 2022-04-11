@@ -5,7 +5,7 @@
 | Steinvej Classic | [[Steinvej]] | 8 | Pro | [[Gasmea]] | [[Cobble]] | Monument
 
 
-> 
+> The oldest of the five cycling monuments, the Steinvej classic uses many of the old, rugged cobbled roads of northern Gasmea. The numerous cobble sectors and flat, windswept terrain favour true cobble experts.
 
 # Performances
 

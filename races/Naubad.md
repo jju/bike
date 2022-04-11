@@ -4,7 +4,7 @@
 |-----|------|------|-----|----|-----|-----|
 | Naubad Classic | [[Naubad]] | 5 | Amateur | [[Hetvesia]] | [[HillyMountain]] |
 
-> A short but challenging classic in the mountains around the ski and spa resort of Naubad.
+> A short but challenging classic in the mountains around the ski and spa resort of Naubad. A perfect opportunity for an extended stay after grinding up the numerous climbs sprinkled with ski lifts.
 
 # Performances
 

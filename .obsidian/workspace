@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyclisttactics/tdm-racing.md",
+                "file": "races/WilRho.md",
                 "mode": "source"
               }
             }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyclisttactics/teams/DMR.md",
+                "file": "cyclisttactics/teams/upb-s1.md",
                 "mode": "source"
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyclisttactics/tdm-racing.md",
+                "file": "races/WilRho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "812f51fe8a9c02b1",
   "lastOpenFiles": [
-    "cyclisttactics/tdm-racing.md",
-    "cyclisttactics/teams/DMR.md",
-    "cyclisttactics/teams/dmr-s1.md",
-    "cyclisttactics/teams/dmr-s2.md",
-    "cyclisttactics/teams/dmr-s3.md",
-    "cyclisttactics/teams/dmr-s4.md",
-    "cyclisttactics/teams/dmr-s5.md",
-    "races/Steinvej.md",
+    "races/WilRho.md",
+    "races/Wazduk.md",
+    "cyclisttactics/teams/upb-s1.md",
     "races/index.md",
-    "races/Hegen.md"
+    "races/Arrow.md",
+    "races/Chrono.md",
+    "races/Harvest.md",
+    "races/Vitessa.md",
+    "races/Naubad.md",
+    "races/RHills.md"
   ]
 }

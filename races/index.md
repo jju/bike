@@ -5,7 +5,7 @@
 | Tour of Gasmea | [[GasTour]] | 10 | Pro | [[Gasmea]] | [[HillyMountain]] | 21 Stages
 | Giro Fruinia | [[Giro]] | 9 | Pro | [[Fruinia]] | [[Hilly]] | 21 Stages
 | Fruinian Masters | [[Masters]] | 9 | Pro | [[Fruinia]] | [[Hilly]] | Monument
-| Desert Sprint | [[Desert]] | 9 | Pro | [[Dalluha]] | [[Flat]] |
+| Desert Sprint | [[Desert]] | 9 | Pro | [[Dalluha]] | [[Flat]] | Monument
 | Vista Hetvesia | [[Vista]] | 8 | Pro | [[Hetvesia]] | [[Mountain]] | 14 Stages
 | Great Plains Tour | [[Plains]] | 8 | Pro | [[Gasmea]] | [[Flat]] | 14 Stages
 | Archana Tour | [[ArchTour]] | 8 | Pro | [[Archana]] | [[Hilly]] | 14 Stages
@@ -42,6 +42,6 @@
 | Hills and Valley Tour | [[HVTour]] | 5 | Amateur  | [[Fruinia]] | [[Hilly]] | 3 Stages
 | Naubad Classic | [[Naubad]] | 5 | Amateur | [[Hetvesia]] | [[HillyMountain]] |
 | Weisshorn Challenge | [[Weiss]] | 5 | Amateur | [[Hetvesia]] | [[Mountain]] | 
-| Arrow of Timur | [[Arrow]] | 5 | Amateur | [[Dalluha]] | [[Flat]] |
+| Arrow of Timur | [[Arrow]] | 5 | Amateur | [[Dalluha]] | [[Flat]] [[TT]] |
 | Hills of Wazduk | [[Wazduk]] | 5 | Amateur | [[Archana]] | [[Hilly]] |
 | Rolling Hills Race | [[RHills]] | 5 | Amateur | [[Fruinia]] | [[FlatHilly]] |

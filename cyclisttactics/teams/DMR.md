@@ -75,8 +75,8 @@
 * Federal Bank Open 2024 2nd [[FedBO]]
 * Road to Novobeskov 2024 1st [[Novo]]
 * Daalbeck to Hammersbach 2024 1st [[Hammer]]
-* Hegenberg Round 2025 1st [[Hegen]]
-* Steinvej Classic 2025 1st [[Steinvej]]
+* Hegenberg Round 2025 1st [[Hegen]] #monument 
+* Steinvej Classic 2025 1st [[Steinvej]] #monument 
 
 ### Elias Vogel
 

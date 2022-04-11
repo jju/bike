@@ -10,6 +10,9 @@
 
 * 2023: Andrew Jax Red Jersey & 5th #redjersey #top5 
 * 2023: Elias Vogel 6th #top10
+* 2024: Elias Vogel 1st & Red Jersey #redjersey #win 
+* 2024: Andrew Jax 9th #top10 
+* 2024: Marco Longo 10th #top10
 
 ## Notes
 

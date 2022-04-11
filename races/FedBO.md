@@ -13,5 +13,5 @@
 
 ## Notes
 
-In 2022 Yusef Badawi had a good race after Jax blew up in the break. AJ had also done that in 2022's [[HVTour]] which was a bit ominous for the season.
+In 2022 Yusef Badawi had a good race after Jax blew up in the break. AJ had also done that in 2022's [[HVTour]] which was a bit ominous for the season. Coming back to the race in 2024 Jax made a great go at it, coming in second.
 

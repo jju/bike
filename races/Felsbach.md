@@ -12,6 +12,7 @@
 * 2024: Otto Wolf DMR 3rd #podium 
 * 2024: Pierluigi Fabbri DMR 4th #top5 
 * 2024: Andrew Jax DMR 5th #top5
+* 2025: Pierluigi Fabbri DMR 2nd #podium
 
 ## Notes
 

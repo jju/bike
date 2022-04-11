@@ -1,8 +1,8 @@
-# Season 5 2025
+# Season 6 2026
 
 ## Roster
 
-* Andrew Jax Cobble Puncher
+* Andrew Jax Cobble Expert
 * Javier Gonzalez Rouleur
 * Pierluigi Fabbri Cobble Puncher
 * Yusef Abbasi TT Expert
