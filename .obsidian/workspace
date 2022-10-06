@@ -9,39 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "220509-stiedaclassic2022.md",
-            "mode": "source"
+            "file": "index.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
       {
-        "id": "e94344bf63a222dc",
-        "type": "split",
-        "children": [
-          {
-            "id": "812f51fe8a9c02b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "220131-stationary.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "37d686784174e989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "races/Sprints.md",
-                "mode": "source"
-              }
-            }
+        "id": "812f51fe8a9c02b1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "220131-stationary.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -97,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220509-stiedaclassic2022.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +101,15 @@
   },
   "active": "7217e985443a6558",
   "lastOpenFiles": [
+    "221003-cyclocross.md",
+    "races/Sprints.md",
     "220509-stiedaclassic2022.md",
     "220131-stationary.md",
     "races/index.md",
     "cyclisttactics/teams/upb-s2.md",
-    "races/Sprints.md",
     "cyclisttactics/teams/upb-s1.md",
     "races/ArchTour.md",
     "races/WilRho.md",
-    "races/Wazduk.md",
-    "races/Arrow.md"
+    "races/Wazduk.md"
   ]
 }
