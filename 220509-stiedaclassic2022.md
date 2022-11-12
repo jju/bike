@@ -1,0 +1,1 @@
+My knee went pop in the last 7km of the ride and Mike who I'd been riding with left me behind. It was all right though. I was going to finish my first road race. And yes, I was slow, but that was okay. 

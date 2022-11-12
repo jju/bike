@@ -13,7 +13,7 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 * chainreaction & jensonusa vs the local bike shop
 * thoughts on components and their quality - bikeworks making M feel shitty about her bike that costs money while other places make you feel shitty for your cheapo components
 * the act of wrenching
-* butting things on and taking parts off
+* putting things on and taking parts off
 
 ## riding a bike
 
@@ -21,6 +21,7 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 * in the winter - toughguy styles I'm not too keen
 * speed and competition with self and learning about how time on a given day means very little [[210804-boxes]] 
 * trails and concentration - bear bells prayer bells
+* cyclocross - racing as a weird distraction and being happy in one moment even while wanting it to be over
 * distance - wannabe a randonneur
 * destinations - saltspring and how we didn't leave the car behind
 
