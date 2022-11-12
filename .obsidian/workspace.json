@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "027f8e63574203ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "a09b277d176ec482",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "812f51fe8a9c02b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202211121613-cyclocross-season.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db1d352ebe0fc1f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "43ff8da9c5c523df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "730e9881cbccbf1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe9fc832daf6e07d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39da08019f16df2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "29c1ba097d078621",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f8925e724d4a707",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202211121613-cyclocross-season.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "812f51fe8a9c02b1",
+  "lastOpenFiles": [
+    "202211121600-wheelbuilding.md",
+    "220131-stationary.md",
+    "Untitled.md",
+    "races/WilRho.md",
+    "races/Wazduk.md",
+    "cyclisttactics/teams/upb-s1.md",
+    "races/index.md",
+    "races/Arrow.md",
+    "races/Chrono.md",
+    "races/Harvest.md"
+  ]
+}
