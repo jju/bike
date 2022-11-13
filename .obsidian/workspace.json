@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202211121613-cyclocross-season.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202211121613-cyclocross-season.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "812f51fe8a9c02b1",
+  "active": "730e9881cbccbf1b",
   "lastOpenFiles": [
-    "202211121600-wheelbuilding.md",
+    "202211121613-cyclocross-season.md",
     "220131-stationary.md",
+    "221003-cyclocross.md",
+    "210804-boxes.md",
+    "220509-stiedaclassic2022.md",
+    "202211121600-wheelbuilding.md",
     "Untitled.md",
-    "races/WilRho.md",
-    "races/Wazduk.md",
-    "cyclisttactics/teams/upb-s1.md",
-    "races/index.md",
-    "races/Arrow.md",
-    "races/Chrono.md",
-    "races/Harvest.md"
+    "cyclisttactics/races/WilRho.md",
+    "cyclisttactics/races/Wazduk.md",
+    "cyclisttactics/teams/upb-s1.md"
   ]
 }
