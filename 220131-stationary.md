@@ -1,9 +1,2 @@
 # stationary
 
-I look down at the tiny little box on my handlebars more when I ride out on the road. The box bounces signals off of other boxes very far away and together all the little boxes tell me where I am and where I have been and how fast I am going. There is another little box on my crank that records how quickly it is going around and around. I don't have one of the little boxes that checks to make sure all the other boxes are accurate, nor do I strap a little box to my body to see how the muscle in my chestbox is beating. But boxes I have a few. And today they are telling me I'm going fast.
-
-Now, I do not go fast. I am not a fast rider. I am old and haven't trained. My partner gets mad if I refer to what I do on a bike as being an athlete, mostly because she used to be a real athlete herself. But when I am on a bike I am not slow. This is one of the reasons I haven't joined up with the cycling club I am now a member of. I know I am not fast but I don't really know how not fast I am and I suppose I prefer this state of limbo. If it weren't for the damned boxes.
-
-Because it's possible I could break my record today.
-
-The plan for this lunchtime ride was to get out and ride the road I heard about from my cycling club (which for me exists only on my phone and my phone is too old so at the end of the month it will disappear from there.)

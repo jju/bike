@@ -1,0 +1,7 @@
+I'm building a wheel. In the process which alternates between tedious and satisfying. So far in this wheel I have had to deal with a nipple being lost in the box rim. A spoke that just would not thread onto a nipple (I eventually had to use a spoke that was supposed to be 1mm longer than necessary to make it work).
+
+I have a wheel truing stand, which I use to do the worst, most tedious part of the whole process, checking little imperfections. My partner says I am careless and I have internalized that to some degree so this is the part that I always feel like I am wasting all of my materials, all these bits of metal I, a non-handy person, am pretneding I can build into something functional. "Stick to Lego" comes my inner resistance.
+
+But you work through that shit and you make it into something. My favourite part of building a wheel is the lacing of the spokes and knowing that your previous measurements with the aid of online length calculators weren't toally godawful (I feel like they may have been for my very first wheel, but now I'm on my fourth).
+
+This wheel is a dynamo wheel. When it spins it will generate power. This'll be the wheel I will take out as a tourer on my bike. It's supposed to last. I hope I haven't been building it terribly. We shall see.
