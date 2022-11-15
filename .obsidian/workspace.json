@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "7217e985443a6558",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "source",
-            "source": false
+        "id": "9d16da591177e7b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7217e985443a6558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       },
       {
-        "id": "812f51fe8a9c02b1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "221003-cyclocross.md",
-            "mode": "source",
-            "source": false
+        "id": "f3066df5de11cbfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "812f51fe8a9c02b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "221003-cyclocross.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -43,7 +55,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
