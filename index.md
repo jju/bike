@@ -12,7 +12,7 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 
 * chainreaction & jensonusa vs the local bike shop
 * thoughts on components and their quality - bikeworks making M feel shitty about her bike that costs money while other places make you feel shitty for your cheapo components
-* the act of wrenching [[202211121600-wheelbuilding]]
+* the act of wrenching [[2211121600-wheelbuilding]]
 * putting things on and taking parts off
 
 ## riding a bike

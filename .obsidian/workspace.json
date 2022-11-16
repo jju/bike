@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "221003-cyclocross.md",
+                "file": "220509-stiedaclassic2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "221003-cyclocross.md",
+                "file": "220509-stiedaclassic2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "812f51fe8a9c02b1",
   "lastOpenFiles": [
-    "220131-stationary.md",
-    "index.md",
-    "221003-cyclocross.md",
-    "races/Sprints.md",
+    "221015-zombiebabywaltercross2022.md",
+    "2211121613-cyclocross-season.md",
+    "221002-puncheurcross2022.md",
+    "220917-jimhornergrandprix2022.md",
+    "220902-tubsontubs2022.md",
     "220509-stiedaclassic2022.md",
-    "races/index.md",
-    "cyclisttactics/teams/upb-s2.md",
-    "cyclisttactics/teams/upb-s1.md",
-    "races/ArchTour.md",
-    "races/WilRho.md"
+    "2211121600-wheelbuilding.md",
+    "221003-cyclocross.md",
+    "220131-stationary.md",
+    "index.md"
   ]
 }
