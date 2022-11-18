@@ -6,8 +6,8 @@ But that was a lone race. I had enjoyed it but when I was thinking I'd do more t
 
 I bought a Citizen Racing License (good for Alberta only) and determined to enter three races to make it worth while (you can do 2 races on Single Event Licenses here which would have been cheaper). And I did enter these races. And it was fun.
 
-Before the cyclocross season I entered the Stieda Classic [[220509-stiedaclassic2022]] which was less of my thing. I mean, I enjoyed the ride but coming in last with a kneee that felt like it was dying wasn't my favourite. Cyclocross is short and doesn't involve a long limp home if my body failed me.
+Before the cyclocross season I entered the [[220509-stiedaclassic2022|Alex Stieda Classic]] which was less of my thing. I mean, I enjoyed the ride but coming in last with a kneee that felt like it was dying wasn't my favourite. Cyclocross is short and doesn't involve a long limp home if my body failed me.
 
-As far as a season goes I didn't do a long one. One race per local weekend. It worked out to 4 with [[220902-tubsontubs2022]], the [[220917-jimhornergrandprix2022]], [[221002-puncheurcross2022]] and [[221015-zombiebabywaltercross2022]].
+As far as a season goes I didn't do a long one. One race per local weekend. It worked out to 4 with [[220902-tubsontubs2022|Tubs on Tubs]], the [[220917-jimhornergrandprix2022|Jim Horner Grand Prix]], [[221002-puncheurcross2022|Devon Puncheur Cross]] and [[221015-zombiebabywaltercross2022|Zombie Baby Walter Cross]].
 
 [^1]: he says, knowing full well it was 16/32, see [Tubs on Tubs SuperDuperPrestige Part II - Novice Men Results](http://www.albertabicycle.ab.ca/uploads/files/2019%20Tubs%20on%20Tubs%20Superduperprestige%20Part%20Deux%20-%20Results.pdf)
