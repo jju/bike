@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220131-stationary.md",
+                "file": "220917-jimhornergrandprix2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220131-stationary.md",
+                "file": "220917-jimhornergrandprix2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,20 +95,27 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false
+    }
   },
-  "active": "812f51fe8a9c02b1",
+  "active": "730e9881cbccbf1b",
   "lastOpenFiles": [
-    "2211121613-cyclocross-season.md",
-    "221003-cyclocross.md",
-    "220902-tubsontubs2022.md",
     "index.md",
-    "202211121613-cyclocross-season.md",
+    "220902-tubsontubs2022.md",
+    "220917-jimhornergrandprix2022.md",
+    "221002-puncheurcross2022.md",
+    "221015-zombiebabywaltercross2022.md",
+    "221003-cyclocross.md",
+    "2211121613-cyclocross-season.md",
     "220131-stationary.md",
-    "210804-boxes.md",
-    "220509-stiedaclassic2022.md",
-    "202211121600-wheelbuilding.md",
-    "Untitled.md"
+    "202211121613-cyclocross-season.md",
+    "210804-boxes.md"
   ]
 }
