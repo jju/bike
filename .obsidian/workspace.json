@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2305161305-newseason.md",
+                "file": "2305171104-vcc.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "230527-stiedaclassic2023.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "230527-stiedaclassic2023.md",
+                "file": "2305171104-vcc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,12 +125,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "17069c3de639e9f7",
+  "active": "812f51fe8a9c02b1",
   "lastOpenFiles": [
-    "220509-stiedaclassic2022.md",
-    "230527-stiedaclassic2023.md",
+    "2305171505-fujli.md",
+    "2305171405-korg.md",
+    "2305171305-wuming.md",
+    "2305171205-bullwinkle.md",
+    "2305171105-graymare.md",
     "2305161305-newseason.md",
     "index.md",
+    "README.md",
+    "2305171104-vcc.md",
+    "220509-stiedaclassic2022.md",
+    "230527-stiedaclassic2023.md",
     "2211121600-wheelbuilding.md",
     "cyclisttactics/tdm-racing.md",
     "cyclisttactics/index.md",

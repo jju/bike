@@ -41,7 +41,7 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 ## being a cyclist
 
 * environmentalism and the folly of all this
-* the tribalism - jerseys and consumption [vcc](vcc.md)
+* the tribalism - jerseys and consumption [2305171104-vcc](2305171104-vcc.md)
 * group rides or **solo**
 
 
