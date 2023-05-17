@@ -11,8 +11,8 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 ## my life in bikes
 
 1. Solid tires
-2. Police box
-3. Sears blue mob
+2. Police BMX
+3. Sears blue MTB
 4. Mom's gray "stone" bike
 5. Giant iguana
 6. Fujli
