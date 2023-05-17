@@ -31,9 +31,5 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 * the tribalism - jerseys and consumption 
 * group rides or **solo**
 
-## cycling games
-
-* The Cyclist: Tactics via Steam [[cyclisttactics/index]]
-* 
 
 :bicyclist:

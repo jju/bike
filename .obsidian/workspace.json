@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220917-jimhornergrandprix2022.md",
+                "file": "2305161305-newseason.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17069c3de639e9f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "230527-stiedaclassic2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,6 +69,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "2dc2119310d1cef7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220917-jimhornergrandprix2022.md",
+                "file": "230527-stiedaclassic2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,11 +126,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "730e9881cbccbf1b",
+  "active": "17069c3de639e9f7",
   "lastOpenFiles": [
+    "220509-stiedaclassic2022.md",
+    "230527-stiedaclassic2023.md",
+    "2305161305-newseason.md",
     "index.md",
-    "220902-tubsontubs2022.md",
+    "2211121600-wheelbuilding.md",
+    "cyclisttactics/tdm-racing.md",
+    "cyclisttactics/index.md",
     "220917-jimhornergrandprix2022.md",
+    "220902-tubsontubs2022.md",
     "221002-puncheurcross2022.md",
     "221015-zombiebabywaltercross2022.md",
     "221003-cyclocross.md",
