@@ -28,7 +28,7 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 ## being a cyclist
 
 * environmentalism and the folly of all this
-* the tribalism - jerseys and consumption 
+* the tribalism - jerseys and consumption [[vcc]]
 * group rides or **solo**
 
 ## cycling games
