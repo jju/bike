@@ -16,9 +16,9 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 4. Mom's gray "stone" bike
 5. Giant iguana
 6. Fujli
-7. Bullwinkle
+7. [bullwinkle](bullwinkle.md)
 8. Graymare
-9. Korg
+9. [korg](korg.md)
 10. Wu Ming
 
 ## building a bike
