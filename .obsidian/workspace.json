@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2305171104-vcc.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "2308221208-cross-is-coming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3325892aeff2550d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80e7b42a9461d61d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "220917-jimhornergrandprix2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb6bdd49577efaeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "220902-tubsontubs2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2305171104-vcc.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,28 +157,31 @@
   },
   "active": "812f51fe8a9c02b1",
   "lastOpenFiles": [
-    "2305171505-fujli.md",
+    "230709-vcccriterium.md",
+    "220509-stiedaclassic2022.md",
+    "index.md",
+    "230903-velocitycross2023.md",
+    "230902-tubsontubs2023.md",
+    "230527-stiedaclassic2023.md",
+    "2308221208-cross-is-coming.md",
+    "220917-jimhornergrandprix2022.md",
+    "221003-cyclocross.md",
+    "2211121613-cyclocross-season.md",
+    "230709-velocitycrit2023.md",
+    "2305171104-vcc.md",
+    "2305301905-coaching.md",
+    "220902-tubsontubs2022.md",
+    "graymare.md",
+    "fujli.md",
+    "bullwinkle.md",
+    "korg.md",
+    "wuming.md",
     "2305171405-korg.md",
     "2305171305-wuming.md",
     "2305171205-bullwinkle.md",
     "2305171105-graymare.md",
     "2305161305-newseason.md",
-    "index.md",
     "README.md",
-    "2305171104-vcc.md",
-    "220509-stiedaclassic2022.md",
-    "230527-stiedaclassic2023.md",
-    "2211121600-wheelbuilding.md",
-    "cyclisttactics/tdm-racing.md",
-    "cyclisttactics/index.md",
-    "220917-jimhornergrandprix2022.md",
-    "220902-tubsontubs2022.md",
-    "221002-puncheurcross2022.md",
-    "221015-zombiebabywaltercross2022.md",
-    "221003-cyclocross.md",
-    "2211121613-cyclocross-season.md",
-    "220131-stationary.md",
-    "202211121613-cyclocross-season.md",
-    "210804-boxes.md"
+    "2211121600-wheelbuilding.md"
   ]
 }

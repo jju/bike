@@ -4,9 +4,11 @@ I am not a monk. I have not withdrawn to natural remoteness. No swamps or rocky 
 
 But.
 
-More and more I ~~hate~~ am disenchanted with this world. I understand that the world is objectively better because of the ways that information and communication technology have modified it. Even the cesspool of social media hate is useful because it makes obvious how terrible people are, even when they aren't beingh terrible to you. Sharing information is good, though not unreservedly so. And in the last few years as I've grown less and less enamoured with the internet I've been falling in love with bikes.
+More and more I ~~hate~~ am disenchanted with this world. I understand that the world is objectively better because of the ways that information and communication technology have modified it. Even the cesspool of social media hate is useful because it makes obvious how terrible people are, even when they aren't being terrible to you. Sharing information is good, though not unreservedly so. And in the last few years as I've grown less and less enamoured with the internet I've been falling in love with bikes.
 
 It's not a clean replacement, of course. I use the internet to think about bikes and get ideas for future bikes and shop for bike parts. The manufacture of these bikes is part of the whole overseas manufacturing supply chain that relies on standardized shipping containers and that same communication and fossil fuel burning network that I am trying to escape.
+
+But I *can* escape with a bike. I can ride and it feels like flying even if I'm actually not very fast. I can be by myself in my own head, meditating
 
 ## my life in bikes
 
@@ -15,9 +17,9 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 3. Sears blue MTB
 4. Mom's gray "stone" bike
 5. Giant iguana
-6. Fujli
+6. [[fujli]]
 7. [bullwinkle](bullwinkle.md)
-8. Graymare
+8. [[Graymare]]
 9. [korg](korg.md)
 10. Wu Ming
 
@@ -43,6 +45,16 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 * environmentalism and the folly of all this
 * the tribalism - jerseys and consumption [2305171104-vcc](2305171104-vcc.md)
 * group rides or **solo**
+
+## races entered
+
+* [220509-stiedaclassic2022](220509-stiedaclassic2022.md)
+* [220902-tubsontubs2022](220902-tubsontubs2022.md)
+* [220917-jimhornergrandprix2022](220917-jimhornergrandprix2022.md)
+* [221002-puncheurcross2022](221002-puncheurcross2022.md)
+* [221015-zombiebabywaltercross2022](221015-zombiebabywaltercross2022.md)
+* [230527-stiedaclassic2023](230527-stiedaclassic2023.md)
+* [230709-velocitycrit2023](230709-velocitycrit2023.md)
 
 
 :bicyclist:

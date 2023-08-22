@@ -13,7 +13,7 @@ Throughout the race I was hovering around 9th or 10th, having gotten stuck way b
 
 [^3]: Off-camber remained my nemesis at [[221015-zombiebabywaltercross2022|Zombie Baby Walter Cross]]
 
-In the end this turned out to be my best placing of the 2022 season, but it wasn't my favourite race. I know 
+In the end this turned out to be my best placing of the 2022 season, but it wasn't my favourite race.
 
 ## results
 * 10th place (out of 11)

@@ -1,4 +1,12 @@
-## Rocky Mountain Solo CX 2015 - Bullwinkle
+> bought in 2015 at Cycle Therapy in Duncan $1100
+
+Bullwinkle is my cyclocross bike. It began as more of a commuter bike back in Nanaimo, taking advantage of the wider tires than a road bike (and more gears than my pre-existing track bike [[fujli]]). 
+
+After moving to Edmonton and getting [[korg]] I moved the rack and Brooks saddle over to the heavier touring bike and Bullwinkle got to be my "fast" bike. 
+
+Then after getting rid of [[fujli]] and getting [[wuming]] as a real go fast(ish) road bike, Bullwinkle really was allowed to go back to its roots in CX. Of course, the cyclocross season is only a couple of months so it's also the spring bike and the gravel bike.
+
+## Rocky Mountain Solo CX 2015 - Stock
 
 * FRAME Rocky Mountain 6061 SL Series Custom Hydroformed Alloy. 1-1/8" ZeroStack Headtube. Rack and Fender Mounts
 * FORK Rocky Mountain CX Cromo Disc With Rack Mounts
@@ -18,7 +26,8 @@
 * TIRES Panaracer Pasela 700x35c tanwall 
 * SEATPOST Rocky Mountain L2B 31.6mm 
 * SADDLE Rocky Mountain XC (replaced)
-* SADDLE brooks B17 narrow saddle - honey
+* SADDLE Brooks B17 narrow saddle - honey (replaced)
+* SADDLE SDG Allure saddle - from M
 
 Gear inches 30.79-108.98 but not actually shifting that low
 
@@ -28,4 +37,3 @@ Gear inches 30.79-108.98 but not actually shifting that low
 40x20
 38x18
 
-Bought in 2015 at Cycle Therapy in Duncan $1100
