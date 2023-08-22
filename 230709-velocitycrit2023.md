@@ -2,7 +2,7 @@ Our [club](2305171104-vcc.md) put on a criterium and in my effort to try out a f
 
 When the race began, Warren (also a Velocity club member) put in a good pace that I just couldn't hold for more than a couple of laps. Once I was dropped I could just go at my steady pace and lost about 5 seconds each lap. I did go faster than I do when I'm out riding on my own, but man, I am not a crit racer.
 
-Afterwards I did a volunteer shift course-marshalling for the fast people (and [took some pictures](https://www.flickr.com/photos/hungry_j/sets/72177720310660540)). And they were fast. There were only a couple of Cat 1/2/3 women, and they stayed together for a good long time before Emma Scott pulled away and won by like 12 seconds. The fast men's race was Eric Berg way out in front with an organized [chase](53034945374_aa832553d2_o.jpg) that just couldn't pull him back.
+Afterwards I did a volunteer shift course-marshalling for the fast people (and [took some pictures](https://www.flickr.com/photos/hungry_j/sets/72177720310660540)). And they were fast. There were only a couple of Cat 1/2/3 women, and they stayed together for a good long time before Emma Scott pulled away and won by like 12 seconds. The fast men's race was Eric Berg way out in front with an organized [chase](https://www.flickr.com/photos/hungry_j/53034945374/in/album-72177720310660540/) that just couldn't pull him back.
 
 ## results
 * 3rd place (out of 3 in Citizen)
