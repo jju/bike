@@ -10,6 +10,24 @@ It's not a clean replacement, of course. I use the internet to think about bikes
 
 But I *can* escape with a bike. I can ride and it feels like flying even if I'm actually not very fast. I can be by myself in my own head, meditating
 
+## being a cyclist
+
+* environmentalism and the folly of all this
+* the tribalism - jerseys and consumption [2305171104-vcc](2305171104-vcc.md)
+* group rides or **solo**
+* [[racing]]
+* 
+
+## races entered
+
+* [220509-stiedaclassic2022](220509-stiedaclassic2022.md)
+* [220902-tubsontubs2022](220902-tubsontubs2022.md)
+* [220917-jimhornergrandprix2022](220917-jimhornergrandprix2022.md)
+* [221002-puncheurcross2022](221002-puncheurcross2022.md)
+* [221015-zombiebabywaltercross2022](221015-zombiebabywaltercross2022.md)
+* [230527-stiedaclassic2023](230527-stiedaclassic2023.md)
+* [230709-velocitycrit2023](230709-velocitycrit2023.md)
+
 ## my life in bikes
 
 1. Solid tires
@@ -17,9 +35,9 @@ But I *can* escape with a bike. I can ride and it feels like flying even if I'm 
 3. Sears blue MTB
 4. Mom's gray "stone" bike
 5. Giant iguana
-6. [[fujli]]
+6. [fujli](fujli.md)
 7. [bullwinkle](bullwinkle.md)
-8. [[Graymare]]
+8. [Graymare](Graymare.md)
 9. [korg](korg.md)
 10. Wu Ming
 
@@ -27,7 +45,7 @@ But I *can* escape with a bike. I can ride and it feels like flying even if I'm 
 
 * chainreaction & jensonusa vs the local bike shop
 * thoughts on components and their quality - bikeworks making M feel shitty about her bike that costs money while other places make you feel shitty for your cheapo components
-* the act of wrenching [[2211121600-wheelbuilding]]
+* the act of wrenching [2211121600-wheelbuilding](2211121600-wheelbuilding.md)
 * putting things on and taking parts off
 
 ## riding a bike
@@ -39,22 +57,6 @@ But I *can* escape with a bike. I can ride and it feels like flying even if I'm 
 * cyclocross - racing as a weird distraction and being happy in one moment even while wanting it to be over
 * distance - wannabe a randonneur
 * destinations - saltspring and how we didn't leave the car behind
-
-## being a cyclist
-
-* environmentalism and the folly of all this
-* the tribalism - jerseys and consumption [2305171104-vcc](2305171104-vcc.md)
-* group rides or **solo**
-
-## races entered
-
-* [220509-stiedaclassic2022](220509-stiedaclassic2022.md)
-* [220902-tubsontubs2022](220902-tubsontubs2022.md)
-* [220917-jimhornergrandprix2022](220917-jimhornergrandprix2022.md)
-* [221002-puncheurcross2022](221002-puncheurcross2022.md)
-* [221015-zombiebabywaltercross2022](221015-zombiebabywaltercross2022.md)
-* [230527-stiedaclassic2023](230527-stiedaclassic2023.md)
-* [230709-velocitycrit2023](230709-velocitycrit2023.md)
 
 
 :bicyclist:

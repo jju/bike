@@ -1,4 +1,4 @@
-My second race of the [[2211121613-cyclocross-season|2022 cyclocross season]] was presented by the Juventus Cycling Club at  the Argyll Velodrome. Not in the velodrome itself, but the park surrounding it. When I was looking at the map in the preceding days I wasn't sure where the ups and downs and how it would work as a course. There was a toboggan hill. Were we going to have to up that? Down it?
+My second race of the [2022 cyclocross season](2211121613-cyclocross-season.md) was presented by the Juventus Cycling Club at  the Argyll Velodrome. Not in the velodrome itself, but the park surrounding it. When I was looking at the map in the preceding days I wasn't sure where the ups and downs and how it would work as a course. There was a toboggan hill. Were we going to have to up that? Down it?
 
 On the morning of the race I got there early enough for my preride to get a sense of things, but it was still very confusing what was going on between the tape, especially in a bunch of the back and forths.[^1] It was better in the race itself.
 
@@ -9,9 +9,9 @@ The course had one set of stairs and a really steep climb in the dirt that on th
 [^2]: On lap 2 or so, I saw the kid's mom taking pictures and I gasped out that he was really good.
 [^3]: At the time I thought this descent was crazy. Now, having watched real cyclocross at speed I realize how tame it was, and how much I need to work on my skills.
 
-Throughout the race I was hovering around 9th or 10th, having gotten stuck way behind the main group of riders due to my terrible descending. By the third lap I was so tired I clipped my pedal on the ground and wiped out on an off-camber bit[^3] just after the pit. I managed to pull through and followed the kid I'd been riding with all race across the line. Some of the guys I'd seen at [[220902-tubsontubs2022|Tubs on Tubs]] were at the finish and I made some comment about hoping there was a prize for being beaten by an 11-year-old.
+Throughout the race I was hovering around 9th or 10th, having gotten stuck way behind the main group of riders due to my terrible descending. By the third lap I was so tired I clipped my pedal on the ground and wiped out on an off-camber bit[^3] just after the pit. I managed to pull through and followed the kid I'd been riding with all race across the line. Some of the guys I'd seen at [Tubs on Tubs](220902-tubsontubs2022.md) were at the finish and I made some comment about hoping there was a prize for being beaten by an 11-year-old.
 
-[^3]: Off-camber remained my nemesis at [[221015-zombiebabywaltercross2022|Zombie Baby Walter Cross]]
+[^3]: Off-camber remained my nemesis at [Zombie Baby Walter Cross](221015-zombiebabywaltercross2022.md)
 
 In the end this turned out to be my best placing of the 2022 season, but it wasn't my favourite race.
 
