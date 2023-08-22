@@ -13,7 +13,9 @@ Throughout the race I was hovering around 9th or 10th, having gotten stuck way b
 
 [^3]: Off-camber remained my nemesis at [Zombie Baby Walter Cross](221015-zombiebabywaltercross2022.md)
 
-In the end this turned out to be my best placing of the 2022 season, but it wasn't my favourite race.
+In the end this turned out to be my best placing of the 2022 season[^4], but it wasn't my favourite race. That would come [a couple of weeks later](221002-puncheurcross2022.md).
+
+[^4]: When I later got the ABA results loaded into [crossresults](https://crossresults.com) my score for this - my only top-10 finish in a race - was my worst of my CX career thus far.
 
 ## results
 * 10th place (out of 11)
@@ -24,5 +26,7 @@ In the end this turned out to be my best placing of the 2022 season, but it wasn
 	* Lap 4 12:19.4
 
 [Zone 4 Results](https://zone4.ca/race/2022-09-17/fb9945d4/results/)
+[CrossResults Results](https://www.crossresults.com/race/11588)
+
 
 
