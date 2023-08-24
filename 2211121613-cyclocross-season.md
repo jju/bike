@@ -10,4 +10,6 @@ Before the cyclocross season I entered the [[220509-stiedaclassic2022|Alex Stied
 
 As far as a season goes I didn't do a long one. One race per local weekend. It worked out to 4 with [[220902-tubsontubs2022|Tubs on Tubs]], the [[220917-jimhornergrandprix2022|Jim Horner Grand Prix]], [[221002-puncheurcross2022|Devon Puncheur Cross]] and [[221015-zombiebabywaltercross2022|Zombie Baby Walter Cross]].
 
-[^1]: he says, knowing full well it was 16/32, see [Tubs on Tubs SuperDuperPrestige Part II - Novice Men Results](http://www.albertabicycle.ab.ca/uploads/files/2019%20Tubs%20on%20Tubs%20Superduperprestige%20Part%20Deux%20-%20Results.pdf)
+[^1]: he says, knowing full well it was 16/32, see [Tubs on Tubs SuperDuperPrestige Part II - Novice Men Results](http://www.albertabicycle.ab.ca/uploads/files/2019%20Tubs%20on%20Tubs%20Superduperprestige%20Part%20Deux%20-%20Results.pdf) or [crossresults](https://www.crossresults.com/race/11616)
+
+[racing](racing.md)

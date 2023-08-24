@@ -10,3 +10,5 @@ Afterwards I did a volunteer shift course-marshalling for the fast people (and [
 * 37:57 (19 Laps) 1:37 behind winner
 
 [Zone 4 Results](https://zone4.ca/race/2023-07-07/3c72bc90/results)
+
+[racing](racing.md)

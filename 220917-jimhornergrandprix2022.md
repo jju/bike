@@ -28,5 +28,4 @@ In the end this turned out to be my best placing of the 2022 season[^4], but it 
 [Zone 4 Results](https://zone4.ca/race/2022-09-17/fb9945d4/results/)
 [CrossResults Results](https://www.crossresults.com/race/11588)
 
-
-
+[racing](racing.md)

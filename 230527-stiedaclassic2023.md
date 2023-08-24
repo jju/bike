@@ -16,3 +16,5 @@ On the final couple of kilometres Sheldon left me behind and I just rode my own 
 	* Lap 2 1:01:21 (note that this lap was longer)
 
 [Zone 4 Results](https://zone4.ca/race/2023-05-27/41824afc/results)
+
+[racing](racing.md)

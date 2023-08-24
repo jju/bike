@@ -8,3 +8,5 @@ My knee went pop in the last 7km of the ride and Mike who I'd been riding with l
 	* Lap 2 1:13:49 (note that this lap was longer)
 
 [Zone 4 Results](https://zone4.ca/race/2022-05-07/b8ae91b0/results/)
+
+[racing](racing.md)

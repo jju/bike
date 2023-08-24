@@ -1,1 +1,0 @@
-Chatting with a race organizer on Saturday getting some information about volunteering the next day sorted and he asked "Was this your first race?" I could tell he wanted it to be. He wanted to have introduced someone to the sport he loved. But it wasn't.
