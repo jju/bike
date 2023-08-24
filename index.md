@@ -15,7 +15,7 @@ But I *can* escape with a bike. I can ride and it feels like flying even if I'm 
 * environmentalism and the folly of all this
 * the tribalism - jerseys and consumption [2305171104-vcc](2305171104-vcc.md)
 * group rides or **solo**
-* [[racing]]
+* [racing](racing.md)
 * 
 
 ## races entered
@@ -37,9 +37,10 @@ But I *can* escape with a bike. I can ride and it feels like flying even if I'm 
 5. Giant iguana
 6. [fujli](fujli.md)
 7. [bullwinkle](bullwinkle.md)
-8. [Graymare](Graymare.md)
+8. [graymare](graymare.md) 
 9. [korg](korg.md)
-10. Wu Ming
+10. [wu ming](wuming.md)
+11. 
 
 ## building a bike
 
@@ -52,9 +53,9 @@ But I *can* escape with a bike. I can ride and it feels like flying even if I'm 
 
 * on the road - the dirt and the fumes and the traffic
 * in the winter - toughguy styles I'm not too keen
-* speed and competition with self and learning about how time on a given day means very little [210804-boxes](210804-boxes.md) 
+* speed and competition with self and learning about how time on a given day means very little 
 * trails and concentration - bear bells prayer bells
-* cyclocross - racing as a weird distraction and being happy in one moment even while wanting it to be over
+* [cx](cx.md) cyclocross - [racing](racing.md) as a weird distraction and being happy in one moment even while wanting it to be over
 * distance - wannabe a randonneur
 * destinations - saltspring and how we didn't leave the car behind
 
