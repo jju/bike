@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Stationary"
+author: "jju"
+date: 2022-01-31
+comments: false
+tags: fitness
+excerpt_separator: <!--more-->
+---
 # stationary
 
 There is a gym in the basement of the county building my workplace is in. It has a stationary bike and some weights (and treadmills and rowing machines and stair climbers which I haven't tried). It is where I am starting my strength training regime.
