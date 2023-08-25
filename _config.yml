@@ -1,3 +1,38 @@
-theme: jekyll-theme-minimal
-title: monk on a bike
-show_downloads: false
+# Site settings
+title:          monk on a bike
+description:    "Biking by a Dubious Monk"
+baseurl:        "/bike"
+url:            "https://thedubiousmonk.net"
+
+# Author
+author:
+  name:         Justin Unrau
+  url:          https://thedubiousmonk.net
+  email:        jju@thedubiousmonk.net
+  
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+# disqus:         jekyll-tale
