@@ -29,6 +29,7 @@ The bikes that racers ride are usually drop-bar[^2] bikes with wider (sometimes 
 Cyclocross began in France
 # culture
 
+Loud and friendly with more cowbell.
 # professional
 
 # around here

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cx.md",
+                "file": "_posts/2021-08-04-boxes.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cx.md",
+                "file": "_posts/2021-08-04-boxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,8 +168,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5bf2e24f340c99cc",
+  "active": "730e9881cbccbf1b",
   "lastOpenFiles": [
+    "cx.md",
     "assets/apple-touch-icon(1).png",
     "assets/apple-touch-icon.png",
     "assets/favicon-32x32.png",
@@ -186,11 +187,10 @@
     "_layouts/home.html",
     "2308221208-cross-is-coming.md",
     "racing.md",
-    "cx.md",
     "bicycles/korg.md",
     "bicycles/bullwinkle.md",
     "bicycles/graymare.md",
-    "index.md",
+    "intro.md",
     "bicycles/fujli.md",
     "220902-tubsontubs2022.md",
     "_posts/2022-01-31-stationary.md",
