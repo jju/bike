@@ -1,10 +1,12 @@
+# bullwinkle
+
 > bought in 2015 at Cycle Therapy in Duncan $1100
 
-Bullwinkle is my cyclocross bike. It began as more of a commuter bike back in Nanaimo, taking advantage of the wider tires than a road bike (and more gears than my pre-existing track bike [[fujli]]). 
+Bullwinkle is my cyclocross bike. It began as more of a commuter bike back in Nanaimo, taking advantage of the wider tires than a road bike (and more gears than my pre-existing track bike [fujli](fujli.md)). 
 
-After moving to Edmonton and getting [[korg]] I moved the rack and Brooks saddle over to the heavier touring bike and Bullwinkle got to be my "fast" bike. 
+After moving to Edmonton and getting [korg](korg.md) I moved the rack and Brooks saddle over to the heavier touring bike and Bullwinkle got to be my "fast" bike. 
 
-Then after getting rid of [[fujli]] and getting [[wuming]] as a real go fast(ish) road bike, Bullwinkle really was allowed to go back to its roots in CX. Of course, the cyclocross season is only a couple of months so it's also the spring bike and the gravel bike.
+Then after getting rid of [fujli](fujli.md) and getting [wuming](wuming.md) as a real go fast(ish) road bike, Bullwinkle really was allowed to go back to its roots in [CX](cx.md). I got skinny knobby tires for the dirt, and then my first real wheels I built were a pair of tubeless hoops, so the old stock wheels have become pit/bad weather wheels. Of course, the cyclocross season is only a couple of months so it's also the spring bike and the gravel bike and those old wheels still get more use.
 
 ## Rocky Mountain Solo CX 2015 - Stock
 
