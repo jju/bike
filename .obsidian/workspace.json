@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bicycles/korg.md",
+                "file": "cx.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "racing.md",
+                "file": "2308221208-cross-is-coming.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bicycles/korg.md",
+                "file": "cx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,21 +168,23 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "730e9881cbccbf1b",
+  "active": "5bf2e24f340c99cc",
   "lastOpenFiles": [
-    "bicycles/graymare.md",
+    "index.html",
+    "2308221208-cross-is-coming.md",
+    "racing.md",
+    "cx.md",
+    "bicycles/korg.md",
     "bicycles/bullwinkle.md",
+    "bicycles/graymare.md",
     "index.md",
     "bicycles/fujli.md",
     "bicycles",
-    "racing.md",
     "220902-tubsontubs2022.md",
     "_posts/2022-01-31-stationary.md",
     "_posts/2021-08-04-boxes.md",
-    "2308221208-cross-is-coming.md",
     "_posts/210804-boxes.md",
     "_posts",
-    "cx.md",
     "220509-stiedaclassic2022.md",
     "220917-jimhornergrandprix2022.md",
     "221002-puncheurcross2022.md",
@@ -197,8 +199,6 @@
     "230709-vcccriterium.md",
     "pics/53034945374_aa832553d2_o.jpg",
     "pics",
-    "2305171104-vcc.md",
-    "bicycles/wuming.md",
-    "2305301905-coaching.md"
+    "2305171104-vcc.md"
   ]
 }

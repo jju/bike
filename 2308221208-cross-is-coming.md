@@ -10,7 +10,7 @@ In the offseason I started compiling the [Alberta Cyclo-cross Cup](https://www.a
 
 The other thing I'm trying to do this year is become a bit more social in the bike world. I'm in [a cycling club](2305171104-vcc.md) now so I will have people wearing the same shirt as me at races. CX is supposed to be a social kind of experience[^3]. In Belgium they cheer and crowd in for races and drink loads of beer and make lots of noise. Edmonton (and [Devon](221002-puncheurcross2022.md)) is the only place I've raced and Central Alberta's a lot more sedate. But there is a facebook group where people discuss things like local tire pressure and going to Nationals and the like.
 
-In any case, I've signed up for my first race weekend of 2023 ([230903-velocitycross2023](230903-velocitycross2023.md) & [230902-tubsontubs2023](230902-tubsontubs2023.md)) and am getting antsy waiting for it all to begin.
+In any case, I've signed up for my first race weekend of 2023 ([Tubs on Tubs Supercalifragiliciousxpialidocius Prestige](230902-tubsontubs2023.md) & [Velocity CX](230903-velocitycross2023.md)) and am getting antsy waiting for it all to begin.
 
 2023-08-24
 
