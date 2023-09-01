@@ -8,6 +8,8 @@ After moving to Edmonton and getting [korg](korg.md) I moved the rack and Brooks
 
 Then after getting rid of [fujli](fujli.md) and getting [wuming](wuming.md) as a real go fast(ish) road bike, Bullwinkle really was allowed to go back to its roots in [CX](cx.md). I got skinny knobby tires for the dirt, and then my first real wheels I built were a pair of tubeless hoops, so the old stock wheels have become pit/bad weather wheels. Of course, the cyclocross season is only a couple of months so it's also the spring bike and the gravel bike and those old wheels still get more use.
 
+One of the things I love about Bullwinkle is its backwards journey. It's a bike that started as a commuter and became what it was actually built for, rather than slowly retiring.
+
 ## Rocky Mountain Solo CX 2015 - Stock
 
 * FRAME Rocky Mountain 6061 SL Series Custom Hydroformed Alloy. 1-1/8" ZeroStack Headtube. Rack and Fender Mounts

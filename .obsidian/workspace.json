@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bicycles/graymare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bf2e24f340c99cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2021-08-04-boxes.md",
+                "file": "230902-tubsontubs2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "3325892aeff2550d",
@@ -56,19 +44,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bicycles/bullwinkle.md",
+                "file": "2308311008-wednesday-night-worlds.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eb6bdd49577efaeb",
+            "id": "96172eac52915fc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220902-tubsontubs2022.md",
+                "file": "230903-velocitycross2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bicycles/bullwinkle.md",
+                "file": "2308311008-wednesday-night-worlds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +158,15 @@
   },
   "active": "80e7b42a9461d61d",
   "lastOpenFiles": [
+    "230903-velocitycross2023.md",
     "230902-tubsontubs2023.md",
+    "2308311008-wednesday-night-worlds.md",
+    "racing.md",
+    "2308291108-prepping-a-season.md",
+    "bicycles/bullwinkle.md",
+    "strathconasciencepark.md",
+    "220902-tubsontubs2022.md",
+    "bicycles/graymare.md",
     "2308221208-cross-is-coming.md",
     "_posts/2021-08-04-boxes.md",
     "cx.md",
@@ -188,13 +184,9 @@
     "_includes",
     "_layouts/post.html",
     "_layouts/home.html",
-    "racing.md",
     "bicycles/korg.md",
-    "bicycles/bullwinkle.md",
-    "bicycles/graymare.md",
     "intro.md",
     "bicycles/fujli.md",
-    "220902-tubsontubs2022.md",
     "_posts/2022-01-31-stationary.md",
     "_posts/210804-boxes.md",
     "220509-stiedaclassic2022.md",
@@ -203,12 +195,9 @@
     "221015-zombiebabywaltercross2022.md",
     "230527-stiedaclassic2023.md",
     "230709-velocitycrit2023.md",
-    "230903-velocitycross2023.md",
     "2211121600-wheelbuilding.md",
     "2211121613-cyclocross-season.md",
     "2305161305-newseason.md",
-    "230709-vcccriterium.md",
-    "pics/53034945374_aa832553d2_o.jpg",
-    "2305171104-vcc.md"
+    "pics/53034945374_aa832553d2_o.jpg"
   ]
 }

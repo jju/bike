@@ -3,6 +3,8 @@ I'm not a fast rider, but I've entered a few bike races. Enough that my kid does
 ## CX 2023
 
 * ['Cross is Coming](2308221208-cross-is-coming.md)
+* [Preparing a Season](2308291108-prepping-a-season.md)
+* [Wednesday Night Worlds](2308311008-wednesday-night-worlds.md)
 * 
 
 [^1]: I've made peace with the fact that cyclocross is the kind of bike racing I like to do, and am not really a road racer, or especially a criterium racer. It's possible I'll do some gravel events eventually, but CX is the sport I'd have a "season" in.
