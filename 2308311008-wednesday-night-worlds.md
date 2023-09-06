@@ -6,6 +6,4 @@ And holy crap did a lot of people know about it last night!
 
 Since I hadn't been to these before I had thought there would be three different races - Fast Medium and Slow. Which there was, but it's just managed by putting different coloured numbers on your handlebars (I was a Blue (Slow) 242). Then each group just started like 30 seconds after the other. The fast group was massive, then the medium group then us slowfolks (many of whom were fast enough). We all raced for about the same amount of time (I heard 20 minutes plus half a lap, but I think it was a bit more than that) and the fast people just ended up doing more distance in the time.
 
-
-
 [racing](racing.md)

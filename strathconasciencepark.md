@@ -1,1 +1,1 @@
-Provincial park just outside Edmonton.
+Provincial park just outside Edmonton. It's rutted and full of gopher holes. There's no sandy area but it does have a big downhill with long stairs for a runup.
