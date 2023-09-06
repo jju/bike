@@ -1,51 +1,25 @@
 
 > [Tech Guide](https://www.albertabicycle.ab.ca/uploads/files/Velocity-CX-Tech-Guide-2023_v3.pdf)
 > Location: [Strathcona Science Park](strathconasciencepark.md)
-> Course: [stravalink]
+> Course: [stravalink](https://www.strava.com/segments/35335653) (shared with [Tubs on Tubs](230902-tubsontubs2023.md))
 
-Sidney McGill is racing in the Open Men category.
+[Sidney McGill](https://cyclocross24.com/rider/sidney-mcgill-/) was going to be racing in the Open Men category and I was really excited to see her, and to race in the Novice Men, but by 7am the AQHI was over 10 and no one wanted to get blacklung for a race (also the Alberta Bicycle Association won't let you do anything if the index is over 7). It sucked, but there wasn't anything else to do about it.
 
+Next week the races are down in Cochrane and hopefully they have better luck. My next race will be the [Jim Horner Grand Prix](230916-jimhornergrandprix2023).
 
-2022 Podia:
-### Open Women
+# results
 
-1. Sidney MCGILL
-2. Christiane BILODEAU
-3. Nico KNOLL
-### Open Men
+* [[Official Results]]
+* [[CrossResults]]
 
-1. Ryan MACLEAN
-2. Paul MARTIN
-3. Jamie WEIKUM
+## Podia
 
-### Expert Men
+None. Race Cancelled
 
-1. Neil ROBERTS
-2. Evan FLATER
-3. Robert BRANDRICK
+## my results
 
-### Sport Women
+* None - Race Cancelled
 
-1. Juliette VERSAILLES
-2. Courtney PARKER
-3. Elizabeth DEVRIES
+# read more
 
-### Sport Men
-
-1. Sanford MCKENZIE
-2. Francis GRAHAM
-3. Jacob PLAYFAIR
-
-### Novice Men
-
-1. Graham FRANCIS
-2. Ben MORIN
-3. Ernest PALCZEWSKI
-
-## results
-* 
-
-* [Official Results](https://www.albertabicycle.ab.ca/uploads/files/Final%20Results%20-%202022%20Tubs%20on%20Tubs%20Superduperprestige.pdf)
-* [CrossResults]
-
-[racing](racing.md)
+* [racing](racing.md)

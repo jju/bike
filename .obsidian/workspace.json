@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "230902-tubsontubs2023.md",
+                "file": "places/strathconasciencepark.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220902-tubsontubs2022.md",
+                "file": "230916-jimhornergrandprix2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "230902-tubsontubs2023.md",
+                "file": "230916-jimhornergrandprix2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,13 +157,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1bd2f37b10cbf2af",
+  "active": "96172eac52915fc0",
   "lastOpenFiles": [
-    "220902-tubsontubs2022.md",
-    "230902-tubsontubs2023.md",
-    "230903-velocitycross2023.md",
+    "places/capilanopark.md",
+    "places/argyllpark.md",
     "2308311008-wednesday-night-worlds.md",
-    "strathconasciencepark.md",
+    "places/strathconasciencepark.md",
+    "230902-tubsontubs2023.md",
+    "230916-jimhornergrandprix2023.md",
+    "places",
+    "230903-velocitycross2023.md",
+    "220902-tubsontubs2022.md",
     "pics/tubs23_chase.jpg",
     "racing.md",
     "2308291108-prepping-a-season.md",
@@ -185,7 +189,6 @@
     "_includes/catalogue_item.html",
     "_includes",
     "_layouts/post.html",
-    "_layouts/home.html",
     "bicycles/korg.md",
     "intro.md",
     "bicycles/fujli.md",
@@ -197,8 +200,6 @@
     "221015-zombiebabywaltercross2022.md",
     "230527-stiedaclassic2023.md",
     "230709-velocitycrit2023.md",
-    "2211121600-wheelbuilding.md",
-    "2211121613-cyclocross-season.md",
     "pics/53034945374_aa832553d2_o.jpg"
   ]
 }
