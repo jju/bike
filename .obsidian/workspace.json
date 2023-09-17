@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220902-tubsontubs2022.md",
+                "file": "230910-peloton2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2308311008-wednesday-night-worlds.md",
+                "file": "230916-jimhornergrandprix2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220902-tubsontubs2022.md",
+                "file": "230910-peloton2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,14 +159,16 @@
   },
   "active": "1bd2f37b10cbf2af",
   "lastOpenFiles": [
+    "230909-deadgoat2023.md",
+    "230910-peloton2023.md",
     "230902-tubsontubs2023.md",
+    "230916-jimhornergrandprix2023.md",
     "2308311008-wednesday-night-worlds.md",
+    "places/argyllpark.md",
+    "places/capilanopark.md",
+    "places/strathconasciencepark.md",
     "220902-tubsontubs2022.md",
     "230903-velocitycross2023.md",
-    "places/strathconasciencepark.md",
-    "places/capilanopark.md",
-    "230916-jimhornergrandprix2023.md",
-    "places/argyllpark.md",
     "places",
     "pics/tubs23_chase.jpg",
     "racing.md",
@@ -198,8 +200,6 @@
     "220917-jimhornergrandprix2022.md",
     "221002-puncheurcross2022.md",
     "221015-zombiebabywaltercross2022.md",
-    "230527-stiedaclassic2023.md",
-    "230709-velocitycrit2023.md",
     "pics/53034945374_aa832553d2_o.jpg"
   ]
 }
