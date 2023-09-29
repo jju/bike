@@ -1,0 +1,57 @@
+
+> [Tech Guide](https://www.albertabicycle.ab.ca/uploads/files/DEVON%20BICYCLE%20ASSOCIATION%20PRESENTS%202023%20CYCLOCROSS%20PROVINCIAL%20RACE.pdf) 
+> Location: [Voyageur Park](/places/voyageurpark.md) Devon
+> Course: [stravalink]()
+
+This is Provincials for this year, which seems early.
+
+
+
+
+# results
+
+* [Official Results]()
+* [CrossResults]()
+
+## Podia
+
+### Expert Men
+
+1. Paulo ALVES
+2. Emile VOGEL-NAKAMURA
+3. Jacob PLAYFAIR
+
+### Novice Men
+
+1. Quinten MACKLEM
+2. Evan KINDZIERSKI
+3. Benjamin UTTING
+
+### Open Women
+
+1. Christiane BILODEAU
+2. Shawna DONALDSON
+3. Emma SCOTT
+
+### Sport Men
+
+1. Jack PURDY
+2. Ethan MCGHAN
+3. Brendan CARDIFF[^1] 
+
+[^1]: Velocity Cycling Club woo! [2305171104-vcc](2305171104-vcc.md) 
+
+### Sport Women
+
+1. Rachel DUMONT
+2. Kristin BAKER
+3. Sarah WELSH
+
+## my results
+
+* 
+
+# read more
+
+* [racing](racing.md)
+* [My 2022 Experience at Puncheur Cross](221002-puncheurcross2022.md)

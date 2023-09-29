@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "230910-peloton2023.md",
+                "file": "221002-puncheurcross2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96334a5fcd77909d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2309191009-embrace-the-suck.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,24 +51,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80e7b42a9461d61d",
+            "id": "96172eac52915fc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "230916-jimhornergrandprix2023.md",
+                "file": "231001-puncheurcross2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "96172eac52915fc0",
+            "id": "ea66e2827d2e625c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "230902-tubsontubs2023.md",
+                "file": "230930-hopnhurl2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "230910-peloton2023.md",
+                "file": "230930-hopnhurl2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +149,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75e648d1b00a5237",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -157,12 +179,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1bd2f37b10cbf2af",
+  "active": "ea66e2827d2e625c",
   "lastOpenFiles": [
-    "230909-deadgoat2023.md",
-    "230910-peloton2023.md",
-    "230902-tubsontubs2023.md",
+    "230923-wccx2023.md",
+    "230924-driez2023.md",
+    "231001-puncheurcross2023.md",
+    "230930-hopnhurl2023.md",
+    "221002-puncheurcross2022.md",
     "230916-jimhornergrandprix2023.md",
+    "230902-tubsontubs2023.md",
+    "230910-peloton2023.md",
+    "2309191009-embrace-the-suck.md",
+    "230917-schoolofcross2023.md",
+    "230909-deadgoat2023.md",
     "2308311008-wednesday-night-worlds.md",
     "places/argyllpark.md",
     "places/capilanopark.md",
@@ -193,13 +222,6 @@
     "_layouts/post.html",
     "bicycles/korg.md",
     "intro.md",
-    "bicycles/fujli.md",
-    "_posts/2022-01-31-stationary.md",
-    "_posts/210804-boxes.md",
-    "220509-stiedaclassic2022.md",
-    "220917-jimhornergrandprix2022.md",
-    "221002-puncheurcross2022.md",
-    "221015-zombiebabywaltercross2022.md",
     "pics/53034945374_aa832553d2_o.jpg"
   ]
 }

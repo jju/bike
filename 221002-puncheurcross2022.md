@@ -14,4 +14,7 @@ By the end I'd done my best race [of the season](2211121613-cyclocross-season.md
 [Official Results](https://www.albertabicycle.ab.ca/uploads/files/Puncheur%20CX%20Results.pdf)
 [CrossResults Results](https://www.crossresults.com/race/11589)
 
-[racing](racing.md)
+# read more
+
+* [racing](racing.md)
+* [My 2023 Experience at the Hardcore Hop N Hurl](230930-hopnhurl2023.md)
