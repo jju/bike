@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2309191009-embrace-the-suck.md",
+                "file": "racing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3325892aeff2550d",
@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "230930-hopnhurl2023.md",
+                "file": "racing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,17 +178,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ea66e2827d2e625c",
+  "active": "96334a5fcd77909d",
   "lastOpenFiles": [
-    "230923-wccx2023.md",
-    "230924-driez2023.md",
     "231001-puncheurcross2023.md",
     "230930-hopnhurl2023.md",
+    "racing.md",
+    "2309191009-embrace-the-suck.md",
+    "pics/muddyrearwheel.jpg",
     "221002-puncheurcross2022.md",
     "230916-jimhornergrandprix2023.md",
+    "pics/hopnhurl23-startline.jpg",
+    "230923-wccx2023.md",
+    "230924-driez2023.md",
     "230902-tubsontubs2023.md",
     "230910-peloton2023.md",
-    "2309191009-embrace-the-suck.md",
     "230917-schoolofcross2023.md",
     "230909-deadgoat2023.md",
     "2308311008-wednesday-night-worlds.md",
@@ -200,7 +202,6 @@
     "230903-velocitycross2023.md",
     "places",
     "pics/tubs23_chase.jpg",
-    "racing.md",
     "2308291108-prepping-a-season.md",
     "bicycles/bullwinkle.md",
     "bicycles/graymare.md",
@@ -221,7 +222,6 @@
     "_includes",
     "_layouts/post.html",
     "bicycles/korg.md",
-    "intro.md",
     "pics/53034945374_aa832553d2_o.jpg"
   ]
 }

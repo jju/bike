@@ -5,14 +5,14 @@ I'm not a fast rider, but I've entered a few bike races. Enough that my kid does
 * ['Cross is Coming](2308221208-cross-is-coming.md)
 * [Preparing a Season](2308291108-prepping-a-season.md)
 * [Wednesday Night Worlds](2308311008-wednesday-night-worlds.md)
-* 
+* [Embrace the Suck](2309191009-embrace-the-suck.md)
 
 [^1]: I've made peace with the fact that cyclocross is the kind of bike racing I like to do, and am not really a road racer, or especially a criterium racer. It's possible I'll do some gravel events eventually, but CX is the sport I'd have a "season" in.
 
 Here's a bit of writing about [my 2022 cyclocross season](2211121613-cyclocross-season.md).
 ## all races entered
 
-* 
+* 190902-tubsontubs2019 #cx
 * [220509-stiedaclassic2022](220509-stiedaclassic2022.md) #road
 * [220902-tubsontubs2022](220902-tubsontubs2022.md) #cx
 * [220917-jimhornergrandprix2022](220917-jimhornergrandprix2022.md) #cx 
@@ -22,3 +22,5 @@ Here's a bit of writing about [my 2022 cyclocross season](2211121613-cyclocross-
 * [230709-velocitycrit2023](230709-velocitycrit2023.md) #crit
 * [230902-tubsontubs2023](230902-tubsontubs2023.md) #cx 
 * [230903-velocitycross2023](230903-velocitycross2023.md) #cx
+* [230916-jimhornergrandprix2023](230916-jimhornergrandprix2023.md) #cx 
+* [230930-hopnhurl2023](230930-hopnhurl2023.md) #cx 
