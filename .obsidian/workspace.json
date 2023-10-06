@@ -4,7 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a09b277d176ec482",
+        "id": "9617931485f2b973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7217e985443a6558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6833d5a450aea288",
         "type": "tabs",
         "children": [
           {
@@ -13,13 +31,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220917-jimhornergrandprix2022.md",
+                "file": "221003-cyclocross.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2cbf76b2aa6f1655",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
+            "id": "1750af641fc4f6ad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220917-jimhornergrandprix2022.md",
+                "file": "221003-cyclocross.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +134,6 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "812f51fe8a9c02b1",
-=======
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
@@ -108,18 +144,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "730e9881cbccbf1b",
->>>>>>> 4a5b59d9b90e50b584230946ae2c91152e6e11de
+  "active": "1750af641fc4f6ad",
   "lastOpenFiles": [
-    "index.md",
-    "220902-tubsontubs2022.md",
-    "220917-jimhornergrandprix2022.md",
-    "221002-puncheurcross2022.md",
-    "221015-zombiebabywaltercross2022.md",
-    "221003-cyclocross.md",
-    "2211121613-cyclocross-season.md",
     "220131-stationary.md",
-    "202211121613-cyclocross-season.md",
-    "210804-boxes.md"
+    "index.md",
+    "221003-cyclocross.md",
+    "races/Sprints.md",
+    "220509-stiedaclassic2022.md",
+    "races/index.md",
+    "cyclisttactics/teams/upb-s2.md",
+    "cyclisttactics/teams/upb-s1.md",
+    "races/ArchTour.md",
+    "races/WilRho.md"
   ]
 }
