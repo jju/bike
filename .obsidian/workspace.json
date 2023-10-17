@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "221002-puncheurcross2022.md",
+                "file": "intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "3325892aeff2550d",
@@ -68,13 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "230930-hopnhurl2023.md",
+                "file": "2310171410-scars.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "racing.md",
+                "file": "2310171410-scars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,14 +179,24 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "96334a5fcd77909d",
+  "active": "ea66e2827d2e625c",
   "lastOpenFiles": [
-    "231001-puncheurcross2023.md",
-    "230930-hopnhurl2023.md",
+    "intro.md",
     "racing.md",
+    "cyclisttactics/teams/DMR.md",
+    "2310171410-scars.md",
     "2309191009-embrace-the-suck.md",
-    "pics/muddyrearwheel.jpg",
+    "cyclisttactics/teams/index.md",
+    "cyclisttactics/racetypes/Cobble.md",
+    "231015-babywaltercross2023.md",
+    "cyclisttactics/teams/upb-s1.md",
+    "cyclisttactics/teams/dmr-s6.md",
+    "cyclisttactics/tdm-racing.md",
+    "cyclisttactics/index.md",
     "221002-puncheurcross2022.md",
+    "230930-hopnhurl2023.md",
+    "231001-puncheurcross2023.md",
+    "pics/muddyrearwheel.jpg",
     "230916-jimhornergrandprix2023.md",
     "pics/hopnhurl23-startline.jpg",
     "230923-wccx2023.md",
@@ -198,16 +209,8 @@
     "places/argyllpark.md",
     "places/capilanopark.md",
     "places/strathconasciencepark.md",
-    "220902-tubsontubs2022.md",
-    "230903-velocitycross2023.md",
     "places",
     "pics/tubs23_chase.jpg",
-    "2308291108-prepping-a-season.md",
-    "bicycles/bullwinkle.md",
-    "bicycles/graymare.md",
-    "2308221208-cross-is-coming.md",
-    "_posts/2021-08-04-boxes.md",
-    "cx.md",
     "assets/apple-touch-icon(1).png",
     "assets/apple-touch-icon.png",
     "assets/favicon-32x32.png",
@@ -221,7 +224,6 @@
     "_includes/catalogue_item.html",
     "_includes",
     "_layouts/post.html",
-    "bicycles/korg.md",
     "pics/53034945374_aa832553d2_o.jpg"
   ]
 }

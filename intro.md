@@ -18,15 +18,22 @@ But I *can* escape with a bike. I can ride and it feels like flying even if I'm 
 * [racing](racing.md)
 * 
 
-## races entered
+## all races entered
 
-* [220509-stiedaclassic2022](220509-stiedaclassic2022.md)
-* [220902-tubsontubs2022](220902-tubsontubs2022.md)
-* [220917-jimhornergrandprix2022](220917-jimhornergrandprix2022.md)
-* [221002-puncheurcross2022](221002-puncheurcross2022.md)
-* [221015-zombiebabywaltercross2022](221015-zombiebabywaltercross2022.md)
-* [230527-stiedaclassic2023](230527-stiedaclassic2023.md)
-* [230709-velocitycrit2023](230709-velocitycrit2023.md)
+* 190902-tubsontubs2019 #cx
+* [220509-stiedaclassic2022](220509-stiedaclassic2022.md) #road
+* [220902-tubsontubs2022](220902-tubsontubs2022.md) #cx
+* [220917-jimhornergrandprix2022](220917-jimhornergrandprix2022.md) #cx 
+* [221002-puncheurcross2022](221002-puncheurcross2022.md) #cx 
+* [221015-zombiebabywaltercross2022](221015-zombiebabywaltercross2022.md) #cx 
+* [230527-stiedaclassic2023](230527-stiedaclassic2023.md) #road 
+* [230709-velocitycrit2023](230709-velocitycrit2023.md) #crit
+* [230902-tubsontubs2023](230902-tubsontubs2023.md) #cx 
+* [230903-velocitycross2023](230903-velocitycross2023.md) #cx
+* [230916-jimhornergrandprix2023](230916-jimhornergrandprix2023.md) #cx 
+* [230930-hopnhurl2023](230930-hopnhurl2023.md) #cx 
+* [231015-babywaltercross2023](231015-babywaltercross2023.md) #cx 
+
 
 ## my life in bikes
 

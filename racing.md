@@ -6,6 +6,7 @@ I'm not a fast rider, but I've entered a few bike races. Enough that my kid does
 * [Preparing a Season](2308291108-prepping-a-season.md)
 * [Wednesday Night Worlds](2308311008-wednesday-night-worlds.md)
 * [Embrace the Suck](2309191009-embrace-the-suck.md)
+* Scars and Injuries
 
 [^1]: I've made peace with the fact that cyclocross is the kind of bike racing I like to do, and am not really a road racer, or especially a criterium racer. It's possible I'll do some gravel events eventually, but CX is the sport I'd have a "season" in.
 
@@ -24,3 +25,4 @@ Here's a bit of writing about [my 2022 cyclocross season](2211121613-cyclocross-
 * [230903-velocitycross2023](230903-velocitycross2023.md) #cx
 * [230916-jimhornergrandprix2023](230916-jimhornergrandprix2023.md) #cx 
 * [230930-hopnhurl2023](230930-hopnhurl2023.md) #cx 
+* [231015-babywaltercross2023](231015-babywaltercross2023.md) #cx 
