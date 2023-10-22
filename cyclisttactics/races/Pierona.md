@@ -8,6 +8,7 @@
 
 # Performances
 
+* 2021: Denis Tarasov GGC 4th
 * 2022: Frank Albrecht DMR 12th (plus EF AM SB)
 * 2024: Elias Vogel DMR 5th
 

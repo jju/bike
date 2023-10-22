@@ -10,6 +10,7 @@
 # Performances
 
 * 2021: DMR 20th
+* 2021: GGC 8th
 
 ## Notes
 

@@ -3,7 +3,7 @@
 > Location: [Queen Elizabeth Park](/places/queenelizabethpark.md) Edmonton
 > Course: [stravalink](http://www.strava.com/segments/35674332)
 
-I had hoped to do more racing this year, but it turned out that four was what I could handle with my work and other life commitments. So the second day of Baby Walter Cross was my season closer.
+I had hoped to do more racing this year, but it turned out that four was what I could handle with my work and other life commitments. So the second day (first day info here: [231014-babywaltercross2023](231014-babywaltercross2023.md)) of Baby Walter Cross was my season closer.
 
 ![In the Recovery Zone - photo by Stewart "The Legend" Hutchings](/pics/babywalter23_leaves.jpg "Fallen Leaves")
 
@@ -21,7 +21,7 @@ But even then I was having fun. Riding between the tape has been the happiest I'
 
 ### Expert Men
 
-1. Etha MCGHAN
+1. Ethan MCGHAN
 2. Bredy SHEARS
 3. Randy PERRY
 

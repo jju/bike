@@ -6,7 +6,7 @@
 | Excelvelo Bikes | EXB | [[Hetvesia]] | Pro | [[HillyMountain]]
 | Kraken Big Data | KBD | [[Gasmea]] | Pro | [[FlatHilly]]
 | Coldman Socks Finance | CSF | [[Gasmea]] | Pro | [[Cobble]]
-| Telecom Archana | TEL | [[Archana]] | Pro | [[TT]]Hilly
+| Telecom Archana | TEL | [[Archana]] | Pro | [[TT]] [[Hilly]]
 | Dalluha Deep Oil Inc. | DDO | [[Dalluha]] | Pro | [[Flat]]
 | Bank of Hetvesia | BOH | [[Hetvesia]] | Pro | [[Mountain]]
 | Giga Cola Sport | GCS | [[Fruinia]] | Pro | [[FlatHilly]]
@@ -46,3 +46,4 @@
 | Automation Cycling Team  | ACT | [[Gasmea]] | Amateur | [[Flat]]
 | Hector Morales Cycling | HMC | [[Archana]] | Amateur | [[HillyMountain]]
 | Dubious Monk Racing | [[DMR]] | [[Hetvesia]] | Amateur | [[HillyMountain]]
+| Gravel Ghost Collective | [GGC](GGC.md) | [Archana](../nations/Archana.md) | Amateur | [Cobble](../racetypes/Cobble.md)

@@ -11,6 +11,9 @@
 
 * 2021: Frank Albrecht DMR 6th #top10
 * 2021: Andrew Jax DMR 10th #top10
+* 2021: Vladislav Pavlov GGC 2nd #podium 
+* 2021: Soto Ichiro GGC 4th #top5 
+* 2021: Denis Tarasov GGC 6th #top10
 * 2023: Elias Vogel DMR 1st #win 
 * 2023: Yusef Abbasi DMR 2nd #podium 
 * 2023: Andrew Jax DMR 3rd #podium 
