@@ -30,7 +30,7 @@ The team's first international jaunt had three big climbs with somewhat techy de
 
 6 Amateur [Dalluha](../nations/Dalluha.md) [Flat](../racetypes/Flat.md)
 
-Vladislav Pavlov went into the early break, not really expecting it to stick on this fast flat course. Gusev tried to control the peloton to keep Pavlov away and did his job super well getting Tarasov and Soto into 3rd and 4th
+Vladislav Pavlov went into the early break, not really expecting it to stick on this fast flat course. Gusev tried to control the peloton to keep Pavlov away and did his job super well getting Tarasov and Soto into 3rd and 4th while Pavlov claimed the team's first win.
 
 ### Weisshorn Challenge [Weiss](../races/Weiss.md)
 
@@ -43,3 +43,10 @@ Without a pure climber on the team the GGC wasn't expecting much. But Vladislav 
 6 Amateur [Gasmea](../nations/Gasmea.md) [Cobble](../racetypes/Cobble.md)
 
 This is the kind of race Soto Ichiro is hoping to claim as his own in the future. There was only one cobbled section which wasn't enough to shred the peloton or the other experts so he had to settle for 6th, but still not too shabby.
+
+### Chrono Ridge [Chrono](../races/Chrono.md)
+
+6 Mixed [Hetvesia](Hetvesia.md) [Mountain](Mountain.md) [TT](TT.md)
+
+This race was mostly just to fill a slot in the calendar for the Gravel Collective. Getting both Tarasov and Pavlov into the top 10 was a nice surprise.
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyclisttactics/races/Highport.md",
+                "file": "cyclisttactics/races/Chrono.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,8 +143,9 @@
   },
   "active": "142d12443e413f44",
   "lastOpenFiles": [
-    "cyclisttactics/races/Highport.md",
+    "cyclisttactics/races/Chrono.md",
     "cyclisttactics/teams/ggc-s1.md",
+    "cyclisttactics/races/Highport.md",
     "cyclisttactics/races/Weiss.md",
     "cyclisttactics/races/RSRush.md",
     "cyclisttactics/teams/GGC.md",
